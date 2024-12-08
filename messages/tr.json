@@ -1,0 +1,146 @@
+{
+  "Common": {
+    "loading": "Yükleniyor..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Tüm Oyunlar",
+    "menu": "Menü",
+    "categories": "Kategoriler",
+    "Wordle": "Wordle",
+    "Music": "Müzik",
+    "Educational": "Eğitici"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "En yeni ücretsiz çevrimiçi oyunları istediğiniz zaman, istediğiniz yerde oynayın",
+    "support": "Destek",
+    "privacy": "Gizlilik Politikası",
+    "termsConditions": "Şartlar ve Koşullar",
+    "contactUs": "Bizimle iletişime geçin"
+  },
+  "Faq": {
+    "title": "Game3RB Hakkında Sıkça Sorulan Sorular",
+    "1": {
+      "question": "Game3RB nedir?",
+      "answer": "Game3RB, en yeni ve en iyi ücretsiz çevrimiçi oyunları oynayabileceğiniz bir platformdur. Game3RB ile, hiçbir şey indirmenize gerek kalmadan çeşitli türlerde geniş bir oyun koleksiyonunun keyfini çıkarabilirsiniz."
+    },
+    "2": {
+      "question": "Game3RB tamamen ücretsiz mi?",
+      "answer": "Evet, Game3RB %100 ücretsizdir. Herhangi bir abonelik veya gizli ücret ödemeden Game3RB'deki tüm oyunlara erişebilirsiniz."
+    },
+    "3": {
+      "question": "Game3RB'de oynamak için oyun indirmem gerekiyor mu?",
+      "answer": "Hayır, herhangi bir oyun indirmenize gerek yok. Game3RB ile, tüm oyunları doğrudan çevrimiçi olarak oynayabilir, zamandan ve depolama alanından tasarruf edebilirsiniz."
+    },
+    "4": {
+      "question": "Game3RB'de ne tür oyunlar var?",
+      "answer": "Game3RB, aksiyon, macera, bulmaca, yarış ve daha fazlasını içeren çok çeşitli oyunlar sunmaktadır. Zevkiniz ne olursa olsun, Game3RB'de beğeneceğiniz bir şey bulacağınızdan emin olabilirsiniz."
+    },
+    "5": {
+      "question": "Game3RB oyunlarını mobil cihazlarda oynayabilir miyim?",
+      "answer": "Elbette! Game3RB, hem masaüstü hem de mobil cihazlar için optimize edilmiştir, böylece favori oyunlarınızın keyfini her yerde çıkarabilirsiniz."
+    },
+    "6": {
+      "question": "Game3RB oyun kitaplığını ne sıklıkla güncelliyor?",
+      "answer": "Game3RB, her zaman en yeni ve en iyi oyunlara erişebilmeniz için oyun kitaplığını düzenli olarak günceller."
+    },
+    "7": {
+      "question": "Game3RB'de oynamak için bir hesaba ihtiyacım var mı?",
+      "answer": "Hayır, Game3RB'de oynamak için hesap oluşturmanız gerekmez. Sadece web sitesini ziyaret edin ve hemen oynamaya başlayın."
+    },
+    "8": {
+      "question": "Game3RB'de çok oyunculu oyunlar var mı?",
+      "answer": "Evet, diğer oyuncularla çevrimiçi olarak rekabet edebileceğiniz veya iş birliği yapabileceğiniz çok oyunculu oyunlarımız var."
+    },
+    "9": {
+      "question": "Çocuklar için oynamak güvenli mi?",
+      "answer": "Game3RB, her yaştan oyuncu için güvenli bir oyun deneyimi sunmaktadır. Bununla birlikte, ebeveynlerin oyunları inceleyerek çocukları için uygun olduğundan emin olmalarını öneririz."
+    },
+    "10": {
+      "question": "Beğenebileceğim oyunları nasıl bulabilirim?",
+      "answer": "Kullanımı kolay arama işlevimiz ve kategorilerimizle, oyunları türe, popülerliğe, tarihe ve daha fazlasına göre kolayca filtreleyebilirsiniz."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Game3RB Gizlilik Politikası",
+      "1-p": "Bu sayfa, Hizmetlerimizi kullandığınızda Kişisel Bilgilerinizi nasıl topladığımızı, kullandığımızı ve ifşa ettiğimizi açıklamaktadır. Hizmetlerimizi kullanarak, bilgilerin bu Politikaya uygun olarak toplanmasını ve kullanılmasını kabul etmiş olursunuz.",
+      "2-h2": "1. Bilgi Toplama ve Kullanma",
+      "2-p": "Sizinle iletişim kurmak veya sizi tanımlamak için kullanılabilecek belirli Kişisel Bilgilerinizi bize vermenizi isteyebiliriz. Kişisel Bilgiler şunları içerebilir, ancak bunlarla sınırlı değildir:",
+      "3-h2": "2. Günlük Verileri",
+      "3-p": "Hizmetlerimizi her ziyaret ettiğinizde, tarayıcınızın gönderdiği bilgileri de toplayabiliriz (\"Günlük Verileri\"). Bu Günlük Verileri, bilgisayarınızın İnternet Protokolü (\"IP\") adresi, tarayıcı türü, tarayıcı sürümü, Hizmetlerimizdeki ziyaret ettiğiniz sayfalar, ziyaretinizin saati ve tarihi, bu sayfalarda geçirilen süre ve diğer istatistiksel verileri içerebilir.",
+      "4-h2": "3. Çerezler",
+      "4-p": "Çerezler, anonim bir benzersiz tanımlayıcı içerebilen küçük veri parçacıkları içeren dosyalardır. Çerezler, bir web sitesinden tarayıcınıza gönderilir ve bilgisayarınızın sabit diskinde saklanır. Bilgi toplamak için \"çerezleri\" kullanıyoruz. Tarayıcınızı tüm çerezleri reddedecek veya bir çerezin ne zaman gönderileceğini size bildirecek şekilde ayarlayabilirsiniz. Ancak, çerezleri kabul etmezseniz, Hizmetlerimizin bazı bölümlerini kullanamayabilirsiniz.",
+      "5-h2": "4. Hizmet Sağlayıcıları",
+      "5-p-1": "Hizmetlerimizi kolaylaştırmak, bizim adımıza hizmet vermek, Hizmetlerle ilgili hizmetleri gerçekleştirmek veya Hizmetlerimizin nasıl kullanıldığını analiz etmemize yardımcı olmak için üçüncü taraf şirketleri ve bireyleri kullanabiliriz. Bu üçüncü taraflar, Kişisel Bilgilerinize yalnızca bu görevleri bizim adımıza gerçekleştirmek amacıyla erişebilirler ve bunları başka herhangi bir amaçla ifşa etmemek veya kullanmamakla yükümlüdürler.",
+      "6-h2": "5. Güvenlik",
+      "6-p": "Kişisel Bilgilerinizin güvenliği bizim için önemlidir, ancak İnternet üzerinden hiçbir aktarım yönteminin veya elektronik depolama yönteminin %100 güvenli olmadığını unutmayın. Kişisel Bilgilerinizi korumak için ticari olarak kabul edilebilir çabayı göstermemize rağmen, mutlak güvenliğini garanti edemeyiz.",
+      "7-h2": "6. Diğer Web Sitelerine Bağlantılar",
+      "7-p": "Hizmetlerimiz, bizim tarafımızdan işletilmeyen diğer web sitelerine bağlantılar içerebilir. Üçüncü taraf bir bağlantıyı tıklarsanız, o üçüncü tarafın web sitesine yönlendirilirsiniz. Ziyaret ettiğiniz her web sitesinin Gizlilik Politikasını incelemenizi önemle tavsiye ederiz.",
+      "8-h2": "7. Bu Gizlilik Politikasındaki Değişiklikler",
+      "8-p": "Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Herhangi bir değişiklik olması durumunda, yeni Gizlilik Politikasını bu sayfada yayınlayarak sizi bilgilendiririz.",
+      "9-h2": "8. Bizimle iletişime geçin",
+      "9-p": "Bu Gizlilik Politikası hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin."
+    },
+    "termsConditions": {
+      "1-h1": "Game3RB Hizmet Şartları ve Koşulları",
+      "1-p": "Game3RB'ye hoş geldiniz! Bu Hizmet Şartları ve Koşulları, https://Game3RB.games adresinden erişilebilen bu web sitesinin kullanımınızı düzenlemektedir.",
+      "2-h2": "1. Web Sitesine Erişim",
+      "2-p": "Bu web sitesine erişim geçicidir ve önceden haber vermeksizin bu web sitesinde sunduğumuz hizmetleri geri çekme veya değiştirme hakkımızı saklı tutarız (aşağıya bakın). Bu web sitesinin herhangi bir zamanda veya herhangi bir süre boyunca herhangi bir nedenle kullanılamaması durumunda sorumlu olmayacağız.",
+      "3-h2": "2. Fikri Mülkiyet",
+      "3-p": "Aksi belirtilmedikçe, bu web sitesindeki ve bu web sitesinde kullanılan materyallerdeki fikri mülkiyet hakları bize veya lisans verenlerimize aittir. Tüm bu fikri mülkiyet hakları saklıdır. Bu web sitesinden, bu Şartlar ve Koşullarda belirlenen kısıtlamalara tabi olarak kendi kişisel kullanımınız için erişebilir ve bunları indirebilirsiniz.",
+      "4-h2": "3. Veri Toplama",
+      "4-p": "Bilgilerinizin toplanması ve kullanılması Gizlilik Politikamıza tabidir.",
+      "5-h2": "4. Geçerli Yasa",
+      "5-p": "Bu Şartlar, yasa hükümleriyle çelişse bile, Amerika Birleşik Devletleri yasalarına tabi olacak ve bu yasalara göre yorumlanacaktır.",
+      "6-h2": "5. Şartlarda Değişiklik",
+      "6-p": "Bu Şartları, kendi takdirimize bağlı olarak, herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bir değişiklik önemliyse, yeni şartların yürürlüğe girmesinden en az 30 gün önce bildirimde bulunmak için makul çabayı göstereceğiz. Önemli bir değişikliğin ne oluşturduğu tamamen bizim takdirimize bağlı olarak belirlenecektir.",
+      "7-h2": "6. Bizimle iletişime geçin",
+      "7-p": "Bu Şartlar hakkında herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin.",
+      "last-p": "Web sitemizi kullanarak, bu Hizmet Şartları ve Koşullarına bağlı kalmayı kabul etmiş olursunuz."
+    }
+  },
+  "NotFound": {
+    "title": "Hata 404 - Sayfa Bulunamadı",
+    "goHome": "Ana Sayfaya Dön"
+  },
+  "Home": {
+    "title": "Game3RB'ye Hoş Geldiniz - En İyi Ücretsiz Çevrimiçi Oyun Sitesi",
+    "newest-free-ai-navigate": "En Yeni Ücretsiz Yapay Zeka Oyunları",
+    "hottest-free-ai-navigate": "En Popüler Ücretsiz Yapay Zeka Oyunları",
+    "exploreMore": "Daha Fazla Oyun Keşfedin",
+    "checkDetail": "Daha Fazla Bilgi Edinin",
+    "search": "Ara",
+    "result": "Arama Sonuçları",
+    "empty": "Veri Yok"
+  },
+  "Explore": {
+    "title": "Game3RB'de Önerilen {num} Yeni Oyunu Keşfedin",
+    "more": "Daha Fazla Keşfedin",
+    "all": "Game3RB'deki Tüm Oyunlar"
+  },
+  "Category": {
+    "title": "Tüm Kategoriler",
+    "home": "Ana Sayfa",
+    "empty": "Veri Yok"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - En yeni ücretsiz çevrimiçi oyunları istediğiniz zaman, istediğiniz yerde oynayın",
+      "description": "Game3RB, en yeni ve en iyi ücretsiz çevrimiçi oyunları oynayabileceğiniz en iyi oyun sitesidir. İndirmeye gerek kalmadan çeşitli türlerde geniş bir oyun koleksiyonunun keyfini çıkarın!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "2024'ün En İyi {num} Oyununu Keşfedin | Game3RB",
+      "titlePage": "2024'ün En İyi {num} Oyununu Keşfedin (Sayfa {page}) | Game3RB",
+      "titlePrefix": "Game3RB'yi Keşfedin",
+      "titleSuffix": "Game3RB",
+      "description": "Game3RB'de en yeni ve en iyi ücretsiz çevrimiçi oyunları keşfedin! Aksiyon, macera ve daha fazlasını içeren çeşitli türlerde geniş bir oyun koleksiyonunun keyfini çıkarın, indirmeye gerek yok!",
+      "keywords": "ücretsiz çevrimiçi oyunlar, yeni oyunlar, tarayıcı oyunları"
+    },
+    "category": {
+      "title": "{genre} Oyunları Oyna | Game3RB"
+    }
+  }
+}

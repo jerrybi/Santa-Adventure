@@ -1,0 +1,149 @@
+{
+  "Common": {
+    "loading": "Carregando..."
+  },
+  "Navigation": {
+    "title": "A Aventura do Papai Noel",
+    "discover": "Todos os Jogos",
+    "menu": "Menu",
+    "categories": "Categorias",
+    "christmas": "Natal",
+    "puzzle": "Quebra-cabeça",
+    "girls": "Meninas"
+  },
+  "Footer": {
+    "title": "A Aventura do Papai Noel",
+    "subTitle": "Uma Experiência de Jogos Festiva para Todos!",
+    "support": "Suporte",
+    "privacy": "Política de Privacidade",
+    "termsConditions": "Termos e Condições",
+    "contactUs": "Fale Conosco"
+  },
+  "Faq": {
+    "title": "Perguntas Frequentes Sobre A Aventura do Papai Noel",
+    "1": {
+      "question": "O que é A Aventura do Papai Noel?",
+      "answer": "A Aventura do Papai Noel é uma plataforma onde você pode jogar os mais recentes e populares jogos online gratuitos. Com A Aventura do Papai Noel, você pode desfrutar de uma vasta coleção de jogos de vários gêneros sem precisar baixar nada."
+    },
+    "2": {
+      "question": "A Aventura do Papai Noel é totalmente gratuita?",
+      "answer": "Sim, A Aventura do Papai Noel é 100% gratuita. Você pode acessar todos os jogos na A Aventura do Papai Noel sem nenhuma assinatura ou custos ocultos."
+    },
+    "3": {
+      "question": "Preciso baixar jogos para jogar na A Aventura do Papai Noel?",
+      "answer": "Não, você não precisa baixar nenhum jogo. A Aventura do Papai Noel permite que você jogue todos os jogos diretamente online, economizando tempo e espaço de armazenamento."
+    },
+    "4": {
+      "question": "Que tipos de jogos estão disponíveis na A Aventura do Papai Noel?",
+      "answer": "A Aventura do Papai Noel oferece uma grande variedade de jogos, incluindo ação, aventura, quebra-cabeça, corrida e muito mais. Independentemente da sua preferência, A Aventura do Papai Noel tem algo para todos."
+    },
+    "5": {
+      "question": "Posso jogar os jogos da A Aventura do Papai Noel em dispositivos móveis?",
+      "answer": "Com certeza! A Aventura do Papai Noel é otimizada para dispositivos desktop e móveis, então você pode desfrutar de seus jogos favoritos em qualquer lugar."
+    },
+    "6": {
+      "question": "Com que frequência A Aventura do Papai Noel atualiza sua biblioteca de jogos?",
+      "answer": "A Aventura do Papai Noel atualiza sua biblioteca de jogos regularmente, garantindo que você sempre tenha acesso aos jogos mais recentes e emocionantes."
+    },
+    "7": {
+      "question": "A Aventura do Papai Noel requer uma conta para jogar?",
+      "answer": "Não, você não precisa de uma conta para jogar jogos na A Aventura do Papai Noel. Simplesmente visite o site e comece a jogar instantaneamente."
+    },
+    "8": {
+      "question": "Existem jogos multiplayer na A Aventura do Papai Noel?",
+      "answer": "Sim, A Aventura do Papai Noel oferece uma seleção de jogos multiplayer onde você pode competir ou colaborar com outros jogadores online."
+    },
+    "9": {
+      "question": "A Aventura do Papai Noel é segura para crianças?",
+      "answer": "A Aventura do Papai Noel é projetada para fornecer uma experiência de jogo segura, com jogos apropriados para todas as idades. No entanto, recomendamos que os pais revisem os jogos para garantir que sejam adequados às preferências de seus filhos."
+    },
+    "10": {
+      "question": "Como posso encontrar meus jogos favoritos na A Aventura do Papai Noel?",
+      "answer": "A Aventura do Papai Noel oferece um sistema de busca e categorias fácil de usar, permitindo que você encontre rapidamente seus jogos favoritos por gênero, popularidade ou data de lançamento."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Política de Privacidade para A Aventura do Papai Noel",
+      "1-p": "Esta página é usada para informar os visitantes sobre nossas políticas de coleta, uso e divulgação de Informações Pessoais. Se você optar por usar nosso Serviço, concorda com a coleta e uso de informações relacionadas a esta política.",
+      "2-h2": "1. Coleta e Uso de Informações",
+      "2-p": "Para uma melhor experiência ao usar nosso Serviço, podemos solicitar que você nos forneça certas informações pessoais identificáveis. As informações solicitadas serão mantidas em seu dispositivo e não são coletadas por nós de forma alguma.",
+      "3-h2": "2. Dados de Registro",
+      "3-p": "Queremos informar que sempre que você usa nosso Serviço, em caso de erro no aplicativo, coletamos dados e informações em seu dispositivo chamados Dados de Registro.",
+      "4-h2": "3. Cookies",
+      "4-p": "Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores únicos anônimos. Estes são enviados para seu navegador pelos sites que você visita e são armazenados na memória interna do seu dispositivo.",
+      "5-h2": "4. Provedores de Serviço",
+      "5-p-1": "Podemos empregar empresas e indivíduos terceirizados pelos seguintes motivos:",
+      "5-li-1": "Para facilitar nosso Serviço;",
+      "5-li-2": "Para fornecer o Serviço em nosso nome;",
+      "5-li-3": "Para executar serviços relacionados ao Serviço;",
+      "5-li-4": "Para nos ajudar a analisar como nosso Serviço é usado;",
+      "5-p-2": "Queremos informar aos usuários que esses terceiros têm acesso às suas Informações Pessoais para realizar as tarefas atribuídas em nosso nome.",
+      "6-h2": "5. Segurança",
+      "6-p": "Valorizamos sua confiança em nos fornecer suas Informações Pessoais e nos esforçamos para usar meios comercialmente aceitáveis para protegê-las.",
+      "7-h2": "6. Links para Outros Sites",
+      "7-p": "Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, será direcionado para esse site.",
+      "8-h2": "7. Alterações nesta Política de Privacidade",
+      "8-p": "Podemos atualizar nossa Política de Privacidade de tempos em tempos. Portanto, recomendamos que você revise esta página periodicamente."
+    },
+    "termsConditions": {
+      "1-h1": "Termos de Serviço para A Aventura do Papai Noel",
+      "1-p": "Bem-vindo à A Aventura do Papai Noel! Nosso site é dedicado a fornecer a você a capacidade de jogar jogos online gratuitos.",
+      "2-h2": "1. Licença de Uso",
+      "2-p": "Você recebe uma licença limitada, não exclusiva e não transferível para usar o site e seus serviços para fins pessoais e não comerciais.",
+      "3-h2": "2. Propriedade",
+      "3-p": "A propriedade do conteúdo gerado no site pertence à pessoa que o criou.",
+      "4-h2": "3. Coleta de Dados do Usuário",
+      "4-p": "Coletamos dados pessoais e não pessoais para melhorar nossos serviços. O uso desses dados é regido por nossa Política de Privacidade.",
+      "5-h2": "4. Lei Aplicável",
+      "5-p": "Estes Termos serão regidos e interpretados de acordo com as leis brasileiras.",
+      "6-h2": "5. Alterações nos Termos",
+      "6-p": "A Aventura do Papai Noel reserva-se o direito de modificar ou substituir estes Termos a qualquer momento.",
+      "7-h2": "6. Informações de Contato",
+      "7-p": "Para dúvidas sobre estes Termos, entre em contato conosco em support@santaadventure.net.",
+      "last-p": "Ao usar A Aventura do Papai Noel, você concorda com estes Termos de Serviço."
+    }
+  },
+  "NotFound": {
+    "title": "404 Página Não Encontrada",
+    "goHome": "Voltar para a página inicial"
+  },
+  "Home": {
+    "title": "Bem-vindo à A Aventura do Papai Noel - O melhor lugar para jogar jogos online gratuitos",
+    "newest-free-ai-navigate": "Lista dos jogos mais recentes na A Aventura do Papai Noel",
+    "hottest-free-ai-navigate": "Lista dos jogos mais populares na A Aventura do Papai Noel",
+    "exploreMore": "Explorar mais jogos",
+    "checkDetail": "Ver detalhes",
+    "search": "Pesquisar",
+    "result": "Resultados da pesquisa",
+    "empty": "Nenhum dado disponível"
+  },
+  "Explore": {
+    "title": "Descubra os melhores e mais recentes {num} jogos na A Aventura do Papai Noel",
+    "more": "Mais",
+    "all": "Todos os jogos na A Aventura do Papai Noel"
+  },
+  "Category": {
+    "title": "Todas as categorias",
+    "home": "início",
+    "empty": "Nenhum dado disponível"
+  },
+  "Metadata": {
+    "home": {
+      "title": "A Aventura do Papai Noel - Ajude o Papai Noel a coletar presentes neste jogo online festivo",
+      "description": "Junte-se à Aventura do Papai Noel, um jogo online divertido e envolvente para todas as idades! Navegue por paisagens nevadas, colete presentes, derrote inimigos e desfrute da jogabilidade clássica de plataforma. Perfeito para a época natalina!",
+      "keywords": "A Aventura do Papai Noel"
+    },
+    "explore": {
+      "title": "Descubra os melhores e mais recentes {num} jogos de 2024 | A Aventura do Papai Noel",
+      "titlePage": "Descubra os melhores e mais recentes {num} jogos, página {page}, de 2024 | A Aventura do Papai Noel",
+      "titlePrefix": "Explore A Aventura do Papai Noel",
+      "titleSuffix": "A Aventura do Papai Noel",
+      "description": "Descubra A Aventura do Papai Noel, seu destino definitivo para os mais recentes e emocionantes jogos online gratuitos. Desfrute de uma vasta coleção de jogos de todos os gêneros, jogáveis instantaneamente sem download!",
+      "keywords": "A Aventura do Papai Noel"
+    },
+    "category": {
+      "title": "Todas as categorias | A Aventura do Papai Noel"
+    }
+  }
+}

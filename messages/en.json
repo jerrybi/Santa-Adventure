@@ -1,0 +1,151 @@
+{
+  "Common": {
+    "loading": "loading..."
+  },
+  "Navigation": {
+    "title": "Santa's Adventure",
+    "discover": "All Games",
+    "menu": "menu",
+    "categories": "Categories",
+    "christmas": "Christmas",
+    "puzzle": "Puzzle",
+    "girls": "Girls"
+  },
+  "Footer": {
+    "title": "Santa's Adventure",
+    "subTitle": "A Festive Gaming Experience for Everyone!",
+    "support": "Support",
+    "privacy": "Privacy policy",
+    "termsConditions": "Terms & Conditions",
+    "contactUs": "Contact Us"
+  },
+  "Faq": {
+    "title": "Frequently Asked Questions About Santa's Adventure",
+    "1": {
+      "question": "What is Santa's Adventure?",
+      "answer": "Santa's Adventure is a platform where you can play the latest and most popular free online games. With Santa's Adventure, you can enjoy a vast collection of games across various genres without needing to download anything."
+    },
+    "2": {
+      "question": "Is Santa's Adventure completely free to use?",
+      "answer": "Yes, Santa's Adventure is 100% free to use. You can access all the games on Santa's Adventure without any subscription or hidden charges."
+    },
+    "3": {
+      "question": "Do I need to download games to play on Santa's Adventure?",
+      "answer": "No, you don’t need to download any games. Santa's Adventure allows you to play all games directly online, saving you time and storage space."
+    },
+    "4": {
+      "question": "What types of games are available on Santa's Adventure?",
+      "answer": "Santa's Adventure offers a wide variety of games, including action, adventure, puzzle, racing, and more. No matter your preference, Santa's Adventure has something for everyone."
+    },
+    "5": {
+      "question": "Can I play Santa's Adventure games on mobile devices?",
+      "answer": "Absolutely! Santa's Adventure is optimized for both desktop and mobile devices, so you can enjoy your favorite games on the go."
+    },
+    "6": {
+      "question": "How often does Santa's Adventure update its game library?",
+      "answer": "Santa's Adventure updates its game library regularly, ensuring you always have access to the latest and most exciting games."
+    },
+    "7": {
+      "question": "Does Santa's Adventure require an account to play games?",
+      "answer": "No, you don’t need an account to play games on Santa's Adventure. Simply visit the website and start playing instantly."
+    },
+    "8": {
+      "question": "Are there multiplayer games on Santa's Adventure?",
+      "answer": "Yes, Santa's Adventure offers a selection of multiplayer games where you can compete or collaborate with other players online."
+    },
+    "9": {
+      "question": "Is Santa's Adventure safe for children?",
+      "answer": "Santa's Adventure is designed to provide a safe gaming experience, featuring games suitable for all ages. However, parents are encouraged to review the games to ensure they meet their children’s preferences."
+    },
+    "10": {
+      "question": "How can I find my favorite games on Santa's Adventure?",
+      "answer": "Santa's Adventure offers a user-friendly search and category system, allowing you to quickly find your favorite games by genre, popularity, or release date."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Privacy Policy for Santa's Adventure",
+      "1-p": "This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.",
+      "2-h2": "1. Information Collection and Use",
+      "2-p": "For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you.",
+      "3-h2": "2. Log Data",
+      "3-p": "I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol ('IP') address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.",
+      "4-h2": "3. Cookies",
+      "4-p": "Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. This Service does not use these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.",
+      "5-h2": "4. Service Providers",
+      "5-p-1": "I may employ third-party companies and individuals due to the following reasons:",
+      "5-li-1": "To facilitate our Service;",
+      "5-li-2": "To provide the Service on our behalf;",
+      "5-li-3": "To perform Service-related services;",
+      "5-li-4": "To assist us in analyzing how our Service is used;",
+      "5-p-2": "I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.",
+      "6-h2": "5. Security",
+      "6-p": "I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.",
+      "7-h2": "6. Links to Other Sites",
+      "7-p": "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.",
+      "8-h2": "7. Changes to This Privacy Policy",
+      "8-p": "I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page."
+    },
+    "termsConditions": {
+      "1-h1": "Terms of Service for Santa's Adventure",
+      "1-p": "Welcome to Santa's Adventure! Our website, located at https://Santa's Adventure.games (\"Website\"), is dedicated to providing you with the ability to create custom images. By accessing or using our Website, you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree with any part of the terms, then you are prohibited from using the Website.",
+      "2-h2": "1. Use License",
+      "2-p": "You are granted a limited, non-exclusive, non-transferable license to use the Website and its services for personal, non-commercial purposes. This license does not include any rights to copy, modify, or distribute the Website's content or use it for commercial purposes without our prior written consent.",
+      "3-h2": "2. Ownership",
+      "3-p": "The ownership of images generated from text on the Website belongs to the person who created the image. Santa's Adventure.games claims no ownership over images created by users.",
+      "4-h2": "3. User Data Collection",
+      "4-p": "We collect personal data (name, email, and payment information) and non-personal data (web cookies) to improve our services. The use of this data is governed by our Privacy Policy, which can be found at",
+      "terms-of-service": "terms-of-service",
+      "5-h2": "4. Governing Law",
+      "5-p": "These Terms shall be governed and construed in accordance with the laws of the United States of America, without regard to its conflict of law provisions.",
+      "6-h2": "5. Changes to Terms",
+      "6-p": "Santa's Adventure reserves the right, at our sole discretion, to modify or replace these Terms at any time. We will notify users of any changes by email. Your continued use of the Website after any change in these Terms will constitute your acceptance of such changes.",
+      "7-h2": "6. Contact Information",
+      "7-p": "If you have any questions about these Terms, please contact us at support@santaadventure.net.",
+      "last-p": "By using Santa's Adventure, you signify your acceptance of these Terms of Service."
+    }
+  },
+  "NotFound": {
+    "title": "404 Not Found",
+    "goHome": "go home"
+  },
+  "Home": {
+    "title": "Welcome to Santa's Adventure - The Best Place to Play Free Online Games",
+    "newest-free-ai-navigate": "Newest Game List On Santa's Adventure",
+    "hottest-free-ai-navigate": "Hottest Game List On Santa's Adventure",
+    "exploreMore": "Get More Games",
+    "checkDetail": "View Detail",
+    "search": "Search",
+    "result": "Search Result",
+    "empty": "No data available"
+  },
+  "Explore": {
+    "title": "Discover the best and latest {num} Games On Santa's Adventure",
+    "more": "More",
+    "all": "All Games On Santa's Adventure"
+  },
+  "Category": {
+    "title": "All Categories",
+    "home": "home",
+    "empty": "No data available"
+
+  },
+  "Metadata": {
+    "home": {
+      "title": "Santa's Adventure - Help Santa Collect Presents in This Festive Online Game",
+      "description": "Join Santa's Adventure, a fun and engaging online game for all ages! Navigate snowy landscapes, collect presents, defeat enemies, and enjoy classic side-scrolling gameplay. Perfect for the holiday season!",
+      "keywords": "Santa's Adventure"
+    },
+    "explore": {
+      "title": "Discover the best and latest {num} Games in 2024 | Santa's Adventure",
+      "titlePage": "Discover the best and latest {num} Games, page {page}, in 2024 | Santa's Adventure",
+      "titlePrefix": "Santa's Adventure Explore",
+      "titleSuffix": "Santa's Adventure",
+      "description": "Discover Santa's Adventure, your ultimate destination for the latest and most exciting free online games. Enjoy a massive collection of games across all genres, playable instantly without downloads!",
+      "keywords": "Santa's Adventure"
+    },
+    "category": {
+      "title": "All Categories | Santa's Adventure"
+    }
+  }
+}

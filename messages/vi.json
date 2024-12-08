@@ -1,0 +1,146 @@
+{
+  "Common": {
+    "loading": "Đang tải..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Tất cả trò chơi",
+    "menu": "Danh mục",
+    "categories": "Thể loại",
+    "Wordle": "Wordle",
+    "Music": "Âm nhạc",
+    "Educational": "Giáo dục"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "Chơi các trò chơi trực tuyến miễn phí mới nhất mọi lúc, mọi nơi",
+    "support": "Hỗ trợ",
+    "privacy": "Chính sách bảo mật",
+    "termsConditions": "Điều khoản và điều kiện",
+    "contactUs": "Liên hệ chúng tôi"
+  },
+  "Faq": {
+    "title": "Câu hỏi thường gặp về Game3RB",
+    "1": {
+      "question": "Game3RB là gì?",
+      "answer": "Game3RB là nền tảng nơi bạn có thể chơi các trò chơi trực tuyến miễn phí mới nhất và hay nhất. Với Game3RB, bạn có thể thưởng thức bộ sưu tập lớn các trò chơi thuộc nhiều thể loại khác nhau mà không cần phải tải xuống."
+    },
+    "2": {
+      "question": "Game3RB có hoàn toàn miễn phí không?",
+      "answer": "Có, Game3RB hoàn toàn miễn phí 100%. Bạn có thể truy cập tất cả các trò chơi trên Game3RB mà không cần bất kỳ đăng ký hoặc phí ẩn nào."
+    },
+    "3": {
+      "question": "Tôi có cần tải xuống trò chơi để chơi trên Game3RB không?",
+      "answer": "Không, bạn không cần tải xuống bất kỳ trò chơi nào. Với Game3RB, bạn có thể chơi tất cả các trò chơi trực tuyến trực tiếp, giúp tiết kiệm thời gian và dung lượng lưu trữ của bạn."
+    },
+    "4": {
+      "question": "Những loại trò chơi nào có sẵn trên Game3RB?",
+      "answer": "Game3RB cung cấp nhiều loại trò chơi khác nhau, bao gồm hành động, phiêu lưu, giải đố, đua xe và nhiều thể loại khác. Cho dù sở thích của bạn là gì, bạn chắc chắn sẽ tìm thấy thứ gì đó mình thích trên Game3RB."
+    },
+    "5": {
+      "question": "Tôi có thể chơi trò chơi Game3RB trên thiết bị di động không?",
+      "answer": "Chắc chắn rồi! Game3RB được tối ưu hóa cho cả máy tính để bàn và thiết bị di động, vì vậy bạn có thể thưởng thức các trò chơi yêu thích của mình mọi lúc, mọi nơi."
+    },
+    "6": {
+      "question": "Game3RB cập nhật thư viện trò chơi của mình thường xuyên như thế nào?",
+      "answer": "Game3RB thường xuyên cập nhật thư viện trò chơi của mình để đảm bảo rằng bạn luôn có quyền truy cập vào các trò chơi mới nhất và hay nhất."
+    },
+    "7": {
+      "question": "Tôi có cần tài khoản để chơi trên Game3RB không?",
+      "answer": "Không, bạn không cần tạo tài khoản để chơi trên Game3RB. Chỉ cần truy cập trang web và bắt đầu chơi ngay lập tức."
+    },
+    "8": {
+      "question": "Có trò chơi nhiều người chơi trên Game3RB không?",
+      "answer": "Có, chúng tôi cung cấp các trò chơi nhiều người chơi, nơi bạn có thể cạnh tranh hoặc hợp tác với những người chơi khác trực tuyến."
+    },
+    "9": {
+      "question": "Có an toàn cho trẻ em chơi không?",
+      "answer": "Game3RB cung cấp trải nghiệm chơi trò chơi an toàn cho người chơi ở mọi lứa tuổi. Tuy nhiên, chúng tôi khuyến khích cha mẹ nên xem xét các trò chơi để đảm bảo rằng chúng phù hợp với con cái của họ."
+    },
+    "10": {
+      "question": "Làm cách nào để tôi tìm thấy các trò chơi mà tôi có thể thích?",
+      "answer": "Với chức năng tìm kiếm và danh mục dễ sử dụng của chúng tôi, bạn có thể dễ dàng lọc các trò chơi theo thể loại, mức độ phổ biến, ngày tháng và nhiều hơn thế nữa."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Chính sách bảo mật của Game3RB",
+      "1-p": "Trang này mô tả cách chúng tôi thu thập, sử dụng và tiết lộ Thông tin Cá nhân của bạn khi bạn sử dụng Dịch vụ của chúng tôi. Khi sử dụng Dịch vụ của chúng tôi, bạn đồng ý với việc thu thập và sử dụng thông tin theo Chính sách này.",
+      "2-h2": "1. Thu thập và sử dụng thông tin",
+      "2-p": "Chúng tôi có thể yêu cầu bạn cung cấp cho chúng tôi một số Thông tin Cá nhân nhất định có thể được sử dụng để liên hệ hoặc nhận dạng bạn. Thông tin Cá nhân có thể bao gồm, nhưng không giới hạn ở:",
+      "3-h2": "2. Dữ liệu nhật ký",
+      "3-p": "Chúng tôi cũng có thể thu thập thông tin mà trình duyệt của bạn gửi bất cứ khi nào bạn truy cập Dịch vụ của chúng tôi (\"Dữ liệu nhật ký\"). Dữ liệu nhật ký này có thể bao gồm thông tin như địa chỉ Giao thức Internet (\"IP\") của máy tính, loại trình duyệt, phiên bản trình duyệt, các trang của Dịch vụ mà bạn truy cập, thời gian và ngày tháng của chuyến thăm của bạn, thời gian dành cho các trang đó và các số liệu thống kê khác.",
+      "4-h2": "3. Cookie",
+      "4-p": "Cookie là các tệp có lượng dữ liệu nhỏ, có thể bao gồm một mã định danh duy nhất ẩn danh. Cookie được gửi đến trình duyệt của bạn từ một trang web và được lưu trữ trên ổ cứng máy tính của bạn. Chúng tôi sử dụng \"cookie\" để thu thập thông tin. Bạn có thể hướng dẫn trình duyệt của mình từ chối tất cả cookie hoặc cho biết khi nào cookie đang được gửi. Tuy nhiên, nếu bạn không chấp nhận cookie, bạn có thể không thể sử dụng một số phần của Dịch vụ của chúng tôi.",
+      "5-h2": "4. Nhà cung cấp dịch vụ",
+      "5-p-1": "Chúng tôi có thể sử dụng các công ty và cá nhân bên thứ ba để tạo điều kiện cho Dịch vụ của chúng tôi, để cung cấp Dịch vụ thay mặt chúng tôi, để thực hiện các dịch vụ liên quan đến Dịch vụ hoặc để hỗ trợ chúng tôi trong việc phân tích cách thức sử dụng Dịch vụ của chúng tôi. Các bên thứ ba này chỉ có quyền truy cập vào Thông tin Cá nhân của bạn để thực hiện các nhiệm vụ này thay mặt chúng tôi và có nghĩa vụ không tiết lộ hoặc sử dụng nó cho bất kỳ mục đích nào khác.",
+      "6-h2": "5. Bảo mật",
+      "6-p": "Bảo mật Thông tin Cá nhân của bạn rất quan trọng đối với chúng tôi, nhưng hãy nhớ rằng không có phương thức truyền tải nào qua Internet hoặc phương thức lưu trữ điện tử nào an toàn 100%. Mặc dù chúng tôi cố gắng sử dụng các biện pháp được chấp nhận về mặt thương mại để bảo vệ Thông tin Cá nhân của bạn, nhưng chúng tôi không thể đảm bảo tính bảo mật tuyệt đối của nó.",
+      "7-h2": "6. Liên kết đến các trang web khác",
+      "7-p": "Dịch vụ của chúng tôi có thể chứa liên kết đến các trang web khác không do chúng tôi vận hành. Nếu bạn nhấp vào liên kết của bên thứ ba, bạn sẽ được chuyển hướng đến trang web của bên thứ ba đó. Chúng tôi khuyên bạn nên xem lại Chính sách bảo mật của mỗi trang web mà bạn truy cập.",
+      "8-h2": "7. Thay đổi đối với Chính sách bảo mật này",
+      "8-p": "Chúng tôi có thể cập nhật Chính sách bảo mật của mình theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách bảo mật mới trên trang này.",
+      "9-h2": "8. Liên hệ chúng tôi",
+      "9-p": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ với chúng tôi."
+    },
+    "termsConditions": {
+      "1-h1": "Điều khoản và Điều kiện Sử dụng Game3RB",
+      "1-p": "Chào mừng bạn đến với Game3RB! Các Điều khoản và Điều kiện Sử dụng này điều chỉnh việc bạn sử dụng trang web này, có thể truy cập từ https://Game3RB.games.",
+      "2-h2": "1. Truy cập trang web",
+      "2-p": "Quyền truy cập vào trang web này được cấp trên cơ sở tạm thời và chúng tôi có quyền rút lại hoặc sửa đổi dịch vụ mà chúng tôi cung cấp trên trang web này mà không cần thông báo trước (xem bên dưới). Chúng tôi sẽ không chịu trách nhiệm nếu vì bất kỳ lý do gì mà trang web này không khả dụng vào bất kỳ lúc nào hoặc trong bất kỳ khoảng thời gian nào.",
+      "3-h2": "2. Quyền sở hữu trí tuệ",
+      "3-p": "Trừ khi có quy định khác, chúng tôi hoặc người cấp phép của chúng tôi sở hữu quyền sở hữu trí tuệ trong trang web này và tài liệu được sử dụng trên trang web này. Tất cả các quyền sở hữu trí tuệ này đều được bảo hộ theo luật pháp. Bạn có thể truy cập từ trang web này để sử dụng cho mục đích cá nhân của riêng bạn tùy thuộc vào các hạn chế được quy định trong các điều khoản và điều kiện này.",
+      "4-h2": "3. Thu thập dữ liệu",
+      "4-p": "Chính sách Bảo mật của chúng tôi chi phối việc thu thập và sử dụng thông tin của bạn.",
+      "5-h2": "4. Luật điều chỉnh",
+      "5-p": "Các Điều khoản này sẽ được điều chỉnh và hiểu theo luật pháp của Hoa Kỳ, bất kể xung đột điều khoản luật pháp.",
+      "6-h2": "5. Thay đổi đối với các Điều khoản",
+      "6-p": "Chúng tôi có quyền, theo quyết định riêng của mình, sửa đổi hoặc thay thế các Điều khoản này bất cứ lúc nào. Nếu bản sửa đổi là trọng yếu, chúng tôi sẽ cố gắng thông báo ít nhất 30 ngày trước khi bất kỳ điều khoản mới nào có hiệu lực. Những gì cấu thành một thay đổi trọng yếu sẽ được xác định theo quyết định riêng của chúng tôi.",
+      "7-h2": "6. Liên hệ chúng tôi",
+      "7-p": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với chúng tôi.",
+      "last-p": "Bằng cách sử dụng trang web của chúng tôi, bạn đồng ý bị ràng buộc bởi các Điều khoản và Điều kiện Sử dụng này."
+    }
+  },
+  "NotFound": {
+    "title": "Lỗi 404 - Không tìm thấy trang",
+    "goHome": "Quay lại trang chủ"
+  },
+  "Home": {
+    "title": "Chào mừng bạn đến với Game3RB - Trang web trò chơi trực tuyến miễn phí tốt nhất",
+    "newest-free-ai-navigate": "Trò chơi AI miễn phí mới nhất",
+    "hottest-free-ai-navigate": "Trò chơi AI miễn phí phổ biến nhất",
+    "exploreMore": "Khám phá thêm trò chơi",
+    "checkDetail": "Tìm hiểu thêm",
+    "search": "Tìm kiếm",
+    "result": "Kết quả tìm kiếm",
+    "empty": "Không có dữ liệu"
+  },
+  "Explore": {
+    "title": "Khám phá {num} trò chơi mới được đề xuất trên Game3RB",
+    "more": "Khám phá thêm",
+    "all": "Tất cả trò chơi trên Game3RB"
+  },
+  "Category": {
+    "title": "Tất cả thể loại",
+    "home": "Trang chủ",
+    "empty": "Không có dữ liệu"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - Chơi các trò chơi trực tuyến miễn phí mới nhất mọi lúc, mọi nơi",
+      "description": "Game3RB là trang web trò chơi tốt nhất, nơi bạn có thể chơi các trò chơi trực tuyến miễn phí mới nhất và hay nhất. Tận hưởng bộ sưu tập lớn các trò chơi thuộc nhiều thể loại khác nhau mà không cần tải xuống!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "Khám phá {num} trò chơi hay nhất năm 2024 | Game3RB",
+      "titlePage": "Khám phá {num} trò chơi hay nhất năm 2024 (Trang {page}) | Game3RB",
+      "titlePrefix": "Khám phá Game3RB",
+      "titleSuffix": "Game3RB",
+      "description": "Khám phá các trò chơi trực tuyến miễn phí mới nhất và hay nhất trên Game3RB! Tận hưởng bộ sưu tập lớn các trò chơi thuộc nhiều thể loại khác nhau, bao gồm hành động, phiêu lưu và nhiều thể loại khác, mà không cần tải xuống!",
+      "keywords": "trò chơi trực tuyến miễn phí, trò chơi mới, trò chơi trình duyệt"
+    },
+    "category": {
+      "title": "Chơi trò chơi {genre} | Game3RB"
+    }
+  }
+}

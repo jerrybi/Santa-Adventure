@@ -1,0 +1,147 @@
+{
+  "Common": {
+    "loading": "Laden..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Alle Spellen",
+    "menu": "Menu",
+    "categories": "Categorieën",
+    "Wordle": "Wordle",
+    "Music": "Muziek",
+    "Educational": "Educatief"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "Speel de nieuwste gratis online games - altijd en overal",
+    "support": "Ondersteuning",
+    "privacy": "Privacybeleid",
+    "termsConditions": "Algemene voorwaarden",
+    "contactUs": "Neem contact met ons op"
+  },
+  "Faq": {
+    "title": "Veelgestelde vragen over Game3RB",
+    "1": {
+      "question": "Wat is Game3RB?",
+      "answer": "Game3RB is een platform waar je de nieuwste en beste gratis online games kunt spelen. Met Game3RB kun je genieten van een breed scala aan games uit verschillende genres zonder dat je ze hoeft te downloaden."
+    },
+    "2": {
+      "question": "Is Game3RB volledig gratis?",
+      "answer": "Ja, Game3RB is 100% gratis. Je hebt toegang tot alle games op Game3RB zonder abonnementen of verborgen kosten."
+    },
+    "3": {
+      "question": "Moet ik games downloaden om te spelen op Game3RB?",
+      "answer": "Nee, je hoeft geen games te downloaden. Met Game3RB kun je alle games direct online in je browser spelen, waardoor je tijd en opslagruimte bespaart."
+    },
+    "4": {
+      "question": "Welke soorten games zijn er beschikbaar op Game3RB?",
+      "answer": "Game3RB biedt een breed scala aan games, waaronder actie, avontuur, puzzel, racegames en meer. Wat je voorkeur ook is, je vindt zeker iets leuks om te spelen op Game3RB."
+    },
+    "5": {
+      "question": "Kan ik Game3RB-games spelen op mobiele apparaten?",
+      "answer": "Natuurlijk! Game3RB is geoptimaliseerd voor zowel desktop- als mobiele apparaten, zodat je altijd en overal van je favoriete games kunt genieten."
+    },
+    "6": {
+      "question": "Hoe vaak werkt Game3RB zijn gamebibliotheek bij?",
+      "answer": "Game3RB werkt zijn gamebibliotheek regelmatig bij om je toegang te geven tot de nieuwste en beste games."
+    },
+    "7": {
+      "question": "Heb ik een account nodig om te spelen op Game3RB?",
+      "answer": "Nee, je hoeft geen account aan te maken om te spelen op Game3RB. Bezoek gewoon de website en begin meteen met spelen."
+    },
+    "8": {
+      "question": "Zijn er multiplayer-games op Game3RB?",
+      "answer": "Ja, we bieden multiplayer-games aan waarin je online kunt concurreren of samenwerken met andere spelers."
+    },
+    "9": {
+      "question": "Is het spelen op Game3RB veilig voor kinderen?",
+      "answer": "Game3RB biedt een veilige spelomgeving voor spelers van alle leeftijden. We moedigen ouders echter aan om toezicht te houden op de games die hun kinderen spelen om er zeker van te zijn dat ze geschikt zijn."
+    },
+    "10": {
+      "question": "Hoe vind ik games die ik leuk vind?",
+      "answer": "Met onze gebruiksvriendelijke zoekfunctie en categorieën kun je games eenvoudig filteren op genre, populariteit, datum en meer."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Privacybeleid van Game3RB",
+      "1-p": "Deze pagina beschrijft hoe we uw persoonlijke gegevens verzamelen, gebruiken en openbaar maken wanneer u onze Service gebruikt. Wanneer u onze Service gebruikt, stemt u in met het verzamelen en gebruiken van informatie in overeenstemming met dit beleid.",
+      "2-h2": "1. Informatie die we verzamelen en gebruiken",
+      "2-p": "We kunnen u vragen om ons bepaalde persoonlijke gegevens te verstrekken die kunnen worden gebruikt om contact met u op te nemen of u te identificeren. Persoonlijk identificeerbare informatie kan omvatten, maar is niet beperkt tot:",
+      "3-h2": "2. Gebruiksgegevens",
+      "3-p": "We kunnen ook informatie verzamelen die uw browser verzendt telkens wanneer u onze Service bezoekt ('Gebruiksgegevens'). Deze gebruiksgegevens kunnen informatie bevatten zoals het Internet Protocol-adres ('IP-adres') van uw computer, browsertype, browserversie, de pagina's van onze Service die u bezoekt, de tijd en datum van uw bezoek, de tijd die u op die pagina's hebt doorgebracht en andere diagnostische gegevens.",
+      "4-h2": "3. Cookies",
+      "4-p": "Cookies zijn bestanden met een kleine hoeveelheid gegevens die een anonieme unieke identificatie kunnen bevatten. Cookies worden vanaf een website naar uw browser verzonden en op de harde schijf van uw computer opgeslagen. We gebruiken 'cookies' om informatie te verzamelen. U kunt uw browser opdracht geven om alle cookies te weigeren of om aan te geven wanneer een cookie wordt verzonden. Als u echter geen cookies accepteert, kunt u mogelijk sommige delen van onze Service niet gebruiken.",
+      "5-h2": "4. Dienstverleners",
+      "5-p-1": "We kunnen bedrijven en personen van derden inschakelen om onze Service te faciliteren ('Dienstverleners'), om de Service namens ons uit te voeren, om servicegerelateerde diensten te verlenen of om ons te helpen bij het analyseren van hoe onze Service wordt gebruikt. Deze derden hebben alleen toegang tot uw persoonlijke gegevens om deze taken namens ons uit te voeren en zijn verplicht deze niet openbaar te maken of te gebruiken voor andere doeleinden.",
+      "6-h2": "5. Beveiliging",
+      "6-p": "De beveiliging van uw persoonlijke gegevens is belangrijk voor ons, maar houd er rekening mee dat geen enkele methode voor gegevensoverdracht via internet of elektronische opslag 100% veilig is. Hoewel we ernaar streven om commercieel aanvaardbare middelen te gebruiken om uw persoonlijke gegevens te beschermen, kunnen we de absolute veiligheid ervan niet garanderen.",
+      "7-h2": "6. Links naar andere sites",
+      "7-p": "Onze Service kan links bevatten naar andere sites die niet door ons worden beheerd. Als u op een link van derden klikt, wordt u doorgestuurd naar de site van die derde partij. We raden u ten zeerste aan om het privacybeleid van elke site die u bezoekt te lezen.",
+      "8-h2": "7. Wijzigingen in dit privacybeleid",
+      "8-p": "We kunnen ons privacybeleid van tijd tot tijd bijwerken. We zullen u op de hoogte stellen van eventuele wijzigingen door het nieuwe privacybeleid op deze pagina te plaatsen.",
+      "9-h2": "8. Neem contact met ons op",
+      "9-p": "Als u vragen heeft over dit privacybeleid, neem dan contact met ons op."
+    },
+    "termsConditions": {
+      "1-h1": "Algemene voorwaarden van Game3RB",
+      "1-p": "Welkom bij Game3RB! Deze Servicevoorwaarden regelen uw gebruik van deze website, die toegankelijk is via https://Game3RB.games.",
+      "2-h2": "1. Toegang tot de website",
+      "2-p": "Uw toegang tot en gebruik van de Service is afhankelijk van uw aanvaarding en naleving van deze voorwaarden. Deze voorwaarden zijn van toepassing op alle bezoekers, gebruikers en anderen die toegang hebben tot of gebruikmaken van de Service.",
+      "3-h2": "2. Intellectueel eigendom",
+      "3-p": "De Service en de originele inhoud, functies en functionaliteit ervan zijn en blijven eigendom van Game3RB en zijn licentiegevers.",
+      "4-h2": "3. Links naar andere websites",
+      "4-p": "Onze Service kan links bevatten naar websites of diensten van derden die geen eigendom zijn van of niet worden beheerd door Game3RB. Game3RB heeft geen controle over en aanvaardt geen verantwoordelijkheid voor de inhoud, het privacybeleid of de praktijken van websites of diensten van derden. U erkent en stemt er verder mee in dat Game3RB niet verantwoordelijk of aansprakelijk is, direct of indirect, voor enige schade of verlies veroorzaakt of vermoedelijk veroorzaakt door of in verband met het gebruik van of het vertrouwen op dergelijke inhoud, goederen of diensten die beschikbaar zijn op of via dergelijke websites of diensten.",
+      "5-h2": "4. Beëindiging",
+      "5-p": "We kunnen uw account onmiddellijk en zonder voorafgaande kennisgeving of aansprakelijkheid beëindigen of opschorten, om welke reden dan ook, inclusief maar niet beperkt tot als u deze Servicevoorwaarden schendt.",
+      "6-h2": "5. Toepasselijk recht",
+      "5-p": "Deze voorwaarden worden beheerst en geïnterpreteerd in overeenstemming met de wetten van Nederland, zonder rekening te houden met de bepalingen inzake wetsconflicten.",
+      "6-h2": "6. Wijzigingen",
+      "6-p": "We behouden ons het recht voor om deze voorwaarden naar eigen goeddunken te allen tijde te wijzigen of te vervangen. Als een herziening wezenlijk is, zullen we proberen om u ten minste 30 dagen van tevoren op de hoogte te stellen voordat de nieuwe voorwaarden van kracht worden. Wat een wezenlijke wijziging is, wordt naar eigen goeddunken bepaald.",
+      "7-h2": "7. Contact",
+      "7-p": "Als u vragen heeft over deze voorwaarden, neem dan contact met ons op."
+    }
+  },
+  "NotFound": {
+    "title": "Fout 404 - Pagina niet gevonden",
+    "goHome": "Ga naar de homepagina"
+  },
+  "Home": {
+    "title": "Welkom bij Game3RB - De beste plek voor gratis online games",
+    "newest-free-ai-navigate": "Nieuwste gratis AI-games",
+    "hottest-free-ai-navigate": "Populairste gratis AI-games",
+    "exploreMore": "Ontdek meer games",
+    "checkDetail": "Bekijk details",
+    "search": "Zoeken",
+    "result": "Zoekresultaten",
+    "empty": "Geen gegevens"
+  },
+  "Explore": {
+    "title": "Ontdek {num} aanbevolen nieuwe games op Game3RB",
+    "more": "Ontdek meer",
+    "all": "Alle games op Game3RB"
+  },
+  "Category": {
+    "title": "Alle categorieën",
+    "home": "Home",
+    "empty": "Geen gegevens"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - Speel de nieuwste gratis online games - altijd en overal",
+      "description": "Game3RB is de beste gamingwebsite om de nieuwste en beste gratis online games te spelen. Geniet van een breed scala aan games uit verschillende genres zonder dat je ze hoeft te downloaden!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "Ontdek de {num} beste games van 2024 | Game3RB",
+      "titlePage": "Ontdek de {num} beste games van 2024 (pagina {page}) | Game3RB",
+      "titlePrefix": "Ontdek Game3RB",
+      "titleSuffix": "Game3RB",
+      "description": "Ontdek de nieuwste en beste gratis online games op Game3RB! Geniet van een breed scala aan games uit verschillende genres, waaronder actie, avontuur en meer, zonder dat je ze hoeft te downloaden!",
+      "keywords": "gratis online games, nieuwe games, browsergames"
+    },
+    "category": {
+      "title": "Speel gratis {genre} games | Game3RB"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "Common": {
+    "loading": "Lädt..."
+  },
+  "Navigation": {
+    "title": "Santas Abenteuer",
+    "discover": "Alle Spiele",
+    "menu": "Menü",
+    "categories": "Kategorien",
+    "christmas": "Weihnachten",
+    "puzzle": "Puzzle",
+    "girls": "Mädchen"
+  },
+  "Footer": {
+    "title": "Santas Abenteuer",
+    "subTitle": "Ein festliches Spielerlebnis für alle!",
+    "support": "Support",
+    "privacy": "Datenschutzrichtlinie",
+    "termsConditions": "Allgemeine Geschäftsbedingungen",
+    "contactUs": "Kontakt"
+  },
+  "Faq": {
+    "title": "Häufig gestellte Fragen zu Santas Abenteuer",
+    "1": {
+      "question": "Was ist Santas Abenteuer?",
+      "answer": "Santas Abenteuer ist eine Plattform, auf der du die neuesten und beliebtesten kostenlosen Online-Spiele spielen kannst. Mit Santas Abenteuer kannst du eine riesige Sammlung von Spielen aus verschiedenen Genres genießen, ohne etwas herunterladen zu müssen."
+    },
+    "2": {
+      "question": "Ist Santas Abenteuer völlig kostenlos?",
+      "answer": "Ja, Santas Abenteuer ist zu 100 % kostenlos. Du kannst auf alle Spiele auf Santas Abenteuer zugreifen, ohne dass Abonnements oder versteckte Gebühren anfallen."
+    },
+    "3": {
+      "question": "Muss ich Spiele herunterladen, um sie auf Santas Abenteuer zu spielen?",
+      "answer": "Nein, du musst keine Spiele herunterladen. Mit Santas Abenteuer kannst du alle Spiele direkt online spielen, wodurch du Zeit und Speicherplatz sparst."
+    },
+    "4": {
+      "question": "Welche Arten von Spielen gibt es auf Santas Abenteuer?",
+      "answer": "Santas Abenteuer bietet eine große Auswahl an Spielen, darunter Action, Abenteuer, Puzzle, Rennen und mehr. Egal, was du bevorzugst, Santas Abenteuer hat für jeden etwas zu bieten."
+    },
+    "5": {
+      "question": "Kann ich Spiele von Santas Abenteuer auf Mobilgeräten spielen?",
+      "answer": "Absolut! Santas Abenteuer ist sowohl für Desktop- als auch für Mobilgeräte optimiert, sodass du deine Lieblingsspiele auch unterwegs genießen kannst."
+    },
+    "6": {
+      "question": "Wie oft aktualisiert Santas Abenteuer seine Spielebibliothek?",
+      "answer": "Santas Abenteuer aktualisiert seine Spielebibliothek regelmäßig, damit du immer Zugriff auf die neuesten und aufregendsten Spiele hast."
+    },
+    "7": {
+      "question": "Benötige ich ein Konto, um Spiele auf Santas Abenteuer zu spielen?",
+      "answer": "Nein, du benötigst kein Konto, um Spiele auf Santas Abenteuer zu spielen. Besuche einfach die Website und fang sofort an zu spielen."
+    },
+    "8": {
+      "question": "Gibt es Multiplayer-Spiele auf Santas Abenteuer?",
+      "answer": "Ja, Santas Abenteuer bietet eine Auswahl an Multiplayer-Spielen, bei denen du online gegen andere Spieler antreten oder mit ihnen zusammenarbeiten kannst."
+    },
+    "9": {
+      "question": "Ist Santas Abenteuer sicher für Kinder?",
+      "answer": "Santas Abenteuer wurde entwickelt, um ein sicheres Spielerlebnis zu bieten und bietet Spiele, die für alle Altersgruppen geeignet sind. Eltern werden jedoch ermutigt, die Spiele zu überprüfen, um sicherzustellen, dass sie den Vorlieben ihrer Kinder entsprechen."
+    },
+    "10": {
+      "question": "Wie finde ich meine Lieblingsspiele auf Santas Abenteuer?",
+      "answer": "Santas Abenteuer bietet ein benutzerfreundliches Such- und Kategoriesystem, mit dem du deine Lieblingsspiele schnell nach Genre, Popularität oder Erscheinungsdatum finden kannst."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Datenschutzrichtlinie für Santas Abenteuer",
+      "1-p": "Diese Seite dient dazu, Besucher über meine Richtlinien in Bezug auf die Erfassung, Verwendung und Offenlegung personenbezogener Daten zu informieren, falls sich jemand entscheidet, meinen Service zu nutzen. Wenn du dich für die Nutzung meines Service entscheidest, stimmst du der Erfassung und Verwendung von Informationen in Bezug auf diese Richtlinie zu. Die von mir erfassten personenbezogenen Daten werden zur Bereitstellung und Verbesserung des Service verwendet. Ich werde deine Daten nur wie in dieser Datenschutzrichtlinie beschrieben verwenden oder an Dritte weitergeben. Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen.",
+      "2-h2": "1. Erfassung und Verwendung von Informationen",
+      "2-p": "Für eine bessere Nutzererfahrung kann es erforderlich sein, dass du uns bei der Nutzung unseres Service bestimmte personenbezogene Daten zur Verfügung stellst. Die von mir angeforderten Informationen werden auf deinem Gerät gespeichert und von mir in keiner Weise erfasst. Die App verwendet Dienste von Drittanbietern, die möglicherweise Informationen erfassen, die zur Identifizierung deiner Person verwendet werden.",
+      "3-h2": "2. Protokolldaten",
+      "3-p": "Ich möchte dich darüber informieren, dass ich bei jeder Nutzung meines Service im Falle eines Fehlers in der App Daten und Informationen (über Produkte von Drittanbietern) auf deinem Telefon erfasse, die als Protokolldaten bezeichnet werden. Zu diesen Protokolldaten können Informationen wie deine IP-Adresse (Internet Protocol), dein Gerätename, deine Betriebssystemversion, die Konfiguration der App bei der Nutzung meines Service, die Uhrzeit und das Datum deiner Nutzung des Service sowie andere Statistiken gehören.",
+      "4-h2": "3. Cookies",
+      "4-p": "Cookies sind Dateien mit kleinen Datenmengen, die üblicherweise als anonyme eindeutige Kennungen verwendet werden. Diese werden von den von dir besuchten Websites an deinen Browser gesendet und im internen Speicher deines Geräts gespeichert. Dieser Service verwendet diese „Cookies“ nicht explizit. Die App kann jedoch Drittanbietercode und -bibliotheken verwenden, die „Cookies“ verwenden, um Informationen zu sammeln und ihre Dienste zu verbessern. Du hast die Möglichkeit, diese Cookies entweder zu akzeptieren oder abzulehnen und zu erfahren, wann ein Cookie an dein Gerät gesendet wird. Wenn du dich entscheidest, unsere Cookies abzulehnen, kannst du möglicherweise einige Teile dieses Service nicht nutzen.",
+      "5-h2": "4. Dienstanbieter",
+      "5-p-1": "Ich kann Drittunternehmen und Einzelpersonen aus folgenden Gründen beauftragen:",
+      "5-li-1": "Zur Erleichterung unseres Service;",
+      "5-li-2": "Zur Erbringung des Service in unserem Namen;",
+      "5-li-3": "Zur Durchführung von Serviceleistungen im Zusammenhang mit dem Service;",
+      "5-li-4": "Um uns bei der Analyse der Nutzung unseres Service zu unterstützen;",
+      "5-p-2": "Ich möchte die Nutzer dieses Service darüber informieren, dass diese Drittanbieter Zugriff auf deine personenbezogenen Daten haben. Der Grund dafür ist, dass sie die ihnen in unserem Namen übertragenen Aufgaben erfüllen müssen. Sie sind jedoch verpflichtet, die Informationen nicht für andere Zwecke offenzulegen oder zu verwenden.",
+      "6-h2": "5. Sicherheit",
+      "6-p": "Ich weiß dein Vertrauen zu schätzen, dass du uns deine personenbezogenen Daten zur Verfügung stellst, und bemühe mich daher, wirtschaftlich vertretbare Mittel zu ihrem Schutz einzusetzen. Denke jedoch daran, dass keine Methode der Übertragung über das Internet oder der elektronischen Speicherung 100 % sicher und zuverlässig ist, und ich kann ihre absolute Sicherheit nicht garantieren.",
+      "7-h2": "6. Links zu anderen Websites",
+      "7-p": "Dieser Service kann Links zu anderen Websites enthalten. Wenn du auf einen Drittanbieter-Link klickst, wirst du auf diese Website weitergeleitet. Beachte, dass diese externen Websites nicht von mir betrieben werden. Daher empfehle ich dir dringend, die Datenschutzrichtlinien dieser Websites zu lesen. Ich habe keine Kontrolle über die Inhalte, Datenschutzrichtlinien oder Praktiken von Websites oder Diensten Dritter und übernehme keine Verantwortung dafür.",
+      "8-h2": "7. Änderungen an dieser Datenschutzrichtlinie",
+      "8-p": "Ich kann meine Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Daher solltest du diese Seite regelmäßig aufrufen, um dich über Änderungen zu informieren. Ich werde dich über alle Änderungen informieren, indem ich die neue Datenschutzrichtlinie auf dieser Seite veröffentliche. Diese Änderungen treten unmittelbar nach ihrer Veröffentlichung auf dieser Seite in Kraft."
+    },
+    "termsConditions": {
+      "1-h1": "Nutzungsbedingungen für Santas Abenteuer",
+      "1-p": "Willkommen bei Santas Abenteuer! Unsere Website unter https://Santa's Adventure.games („Website“) dient dazu, dir die Möglichkeit zu geben, benutzerdefinierte Bilder zu erstellen. Durch den Zugriff auf unsere Website oder deren Nutzung erklärst du dich mit diesen Nutzungsbedingungen („Bedingungen“) einverstanden. Wenn du mit einem Teil der Bedingungen nicht einverstanden bist, ist es dir untersagt, die Website zu nutzen.",
+      "2-h2": "1. Nutzungslizenz",
+      "2-p": "Dir wird eine beschränkte, nicht exklusive, nicht übertragbare Lizenz zur Nutzung der Website und ihrer Dienste für persönliche, nicht kommerzielle Zwecke gewährt. Diese Lizenz beinhaltet nicht das Recht, den Inhalt der Website zu kopieren, zu verändern oder zu verbreiten oder ihn ohne unsere vorherige schriftliche Zustimmung für kommerzielle Zwecke zu nutzen.",
+      "3-h2": "2. Eigentum",
+      "3-p": "Das Eigentum an den Bildern, die aus Text auf der Website generiert werden, liegt bei der Person, die das Bild erstellt hat. Santa's Adventure.games erhebt keinen Eigentumsanspruch an den von Nutzern erstellten Bildern.",
+      "4-h2": "3. Erfassung von Nutzerdaten",
+      "4-p": "Wir erfassen personenbezogene Daten (Name, E-Mail-Adresse und Zahlungsinformationen) und nicht personenbezogene Daten (Web-Cookies), um unsere Dienste zu verbessern. Die Verwendung dieser Daten unterliegt unserer Datenschutzrichtlinie, die du unter",
+      "terms-of-service": "Nutzungsbedingungen",
+      "5-h2": "4. Geltendes Recht",
+      "5-p": "Diese Bedingungen unterliegen den Gesetzen der Vereinigten Staaten von Amerika, ohne Rücksicht auf Kollisionsnormen.",
+      "6-h2": "5. Änderungen der Bedingungen",
+      "6-p": "Santa's Adventure behält sich das Recht vor, diese Bedingungen nach eigenem Ermessen jederzeit zu ändern oder zu ersetzen. Wir werden die Nutzer über alle Änderungen per E-Mail informieren. Deine fortgesetzte Nutzung der Website nach einer Änderung dieser Bedingungen gilt als deine Zustimmung zu diesen Änderungen.",
+      "7-h2": "6. Kontaktinformationen",
+      "7-p": "Wenn du Fragen zu diesen Bedingungen hast, kontaktiere uns bitte unter support@santaadventure.net.",
+      "last-p": "Durch die Nutzung von Santa's Adventure erklärst du dich mit diesen Nutzungsbedingungen einverstanden."
+    }
+  },
+  "NotFound": {
+    "title": "404 Nicht gefunden",
+    "goHome": "Zur Startseite"
+  },
+  "Home": {
+    "title": "Willkommen bei Santas Abenteuer - Der beste Ort, um kostenlose Online-Spiele zu spielen",
+    "newest-free-ai-navigate": "Liste der neuesten Spiele auf Santas Abenteuer",
+    "hottest-free-ai-navigate": "Liste der beliebtesten Spiele auf Santas Abenteuer",
+    "exploreMore": "Mehr Spiele entdecken",
+    "checkDetail": "Details anzeigen",
+    "search": "Suchen",
+    "result": "Suchergebnisse",
+    "empty": "Keine Daten verfügbar"
+  },
+  "Explore": {
+    "title": "Entdecke die besten und neuesten {num} Spiele auf Santas Abenteuer",
+    "more": "Mehr",
+    "all": "Alle Spiele auf Santas Abenteuer"
+  },
+  "Category": {
+    "title": "Alle Kategorien",
+    "home": "Startseite",
+    "empty": "Keine Daten verfügbar"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Santas Abenteuer - Hilf dem Weihnachtsmann in diesem festlichen Online-Spiel, Geschenke zu sammeln",
+      "description": "Begib dich auf Santas Abenteuer, ein lustiges und fesselndes Online-Spiel für alle Altersgruppen! Navigiere durch verschneite Landschaften, sammle Geschenke, besiege Feinde und genieße das klassische Side-Scrolling-Gameplay. Perfekt für die Weihnachtszeit!",
+      "keywords": "Santas Abenteuer"
+    },
+    "explore": {
+      "title": "Entdecke die besten und neuesten {num} Spiele im Jahr 2024 | Santas Abenteuer",
+      "titlePage": "Entdecke die besten und neuesten {num} Spiele, Seite {page}, im Jahr 2024 | Santas Abenteuer",
+      "titlePrefix": "Santas Abenteuer entdecken",
+      "titleSuffix": "Santas Abenteuer",
+      "description": "Entdecke Santas Abenteuer, dein ultimatives Ziel für die neuesten und aufregendsten kostenlosen Online-Spiele. Genieße eine riesige Sammlung von Spielen aller Genres, die du sofort und ohne Download spielen kannst!",
+      "keywords": "Santas Abenteuer"
+    },
+    "category": {
+      "title": "Alle Kategorien | Santas Abenteuer"
+    }
+  }
+}

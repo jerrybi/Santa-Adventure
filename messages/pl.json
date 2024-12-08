@@ -1,0 +1,146 @@
+{
+  "Common": {
+    "loading": "Ładowanie..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Wszystkie gry",
+    "menu": "Menu",
+    "categories": "Kategorie",
+    "Wordle": "Wordle",
+    "Music": "Muzyka",
+    "Educational": "Edukacyjne"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "Graj w najnowsze darmowe gry online - kiedykolwiek i gdziekolwiek chcesz",
+    "support": "Wsparcie",
+    "privacy": "Polityka prywatności",
+    "termsConditions": "Regulamin",
+    "contactUs": "Skontaktuj się z nami"
+  },
+  "Faq": {
+    "title": "Często zadawane pytania dotyczące Game3RB",
+    "1": {
+      "question": "Co to jest Game3RB?",
+      "answer": "Game3RB to platforma, na której możesz grać w najnowsze i najlepsze darmowe gry online. Dzięki Game3RB możesz cieszyć się szeroką gamą gier z różnych gatunków bez konieczności ich pobierania."
+    },
+    "2": {
+      "question": "Czy Game3RB jest całkowicie darmowe?",
+      "answer": "Tak, Game3RB jest w 100% darmowe. Masz dostęp do wszystkich gier na Game3RB bez żadnych subskrypcji ani ukrytych opłat."
+    },
+    "3": {
+      "question": "Czy muszę pobierać gry, aby grać na Game3RB?",
+      "answer": "Nie, nie musisz pobierać żadnych gier. Dzięki Game3RB możesz grać we wszystkie gry online bezpośrednio w przeglądarce, oszczędzając czas i miejsce na dysku."
+    },
+    "4": {
+      "question": "Jakie rodzaje gier są dostępne na Game3RB?",
+      "answer": "Game3RB oferuje szeroką gamę gier, w tym gry akcji, przygodowe, logiczne, wyścigowe i wiele innych. Niezależnie od tego, jakie są Twoje preferencje, na pewno znajdziesz coś dla siebie na Game3RB."
+    },
+    "5": {
+      "question": "Czy mogę grać w gry Game3RB na urządzeniach mobilnych?",
+      "answer": "Oczywiście! Game3RB jest zoptymalizowane zarówno dla komputerów stacjonarnych, jak i urządzeń mobilnych, dzięki czemu możesz cieszyć się swoimi ulubionymi grami w dowolnym miejscu i czasie."
+    },
+    "6": {
+      "question": "Jak często Game3RB aktualizuje swoją bibliotekę gier?",
+      "answer": "Game3RB regularnie aktualizuje swoją bibliotekę gier, aby zapewnić Ci dostęp do najnowszych i najlepszych gier."
+    },
+    "7": {
+      "question": "Czy potrzebuję konta, aby grać na Game3RB?",
+      "answer": "Nie, nie musisz tworzyć konta, aby grać na Game3RB. Po prostu odwiedź stronę internetową i zacznij grać od razu."
+    },
+    "8": {
+      "question": "Czy na Game3RB są gry wieloosobowe?",
+      "answer": "Tak, oferujemy gry wieloosobowe, w których możesz rywalizować lub współpracować z innymi graczami online."
+    },
+    "9": {
+      "question": "Czy granie na Game3RB jest bezpieczne dla dzieci?",
+      "answer": "Game3RB zapewnia bezpieczne środowisko gry dla graczy w każdym wieku. Zachęcamy jednak rodziców do nadzorowania gier, aby upewnić się, że są one odpowiednie dla ich dzieci."
+    },
+    "10": {
+      "question": "Jak mogę znaleźć gry, które mogą mi się spodobać?",
+      "answer": "Dzięki naszej łatwej w użyciu funkcji wyszukiwania i kategoriom możesz łatwo filtrować gry według gatunku, popularności, daty i wielu innych kryteriów."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Polityka prywatności Game3RB",
+      "1-p": "Ta strona opisuje, w jaki sposób gromadzimy, wykorzystujemy i ujawniamy Twoje Dane Osobowe podczas korzystania z naszych Usług. Korzystając z naszych Usług, wyrażasz zgodę na gromadzenie i wykorzystywanie informacji zgodnie z niniejszą Polityką.",
+      "2-h2": "1. Gromadzenie i wykorzystywanie informacji",
+      "2-p": "Możemy poprosić Cię o podanie nam pewnych Danych Osobowych, które mogą zostać wykorzystane do kontaktu z Tobą lub Twojej identyfikacji. Dane Osobowe mogą obejmować między innymi:",
+      "3-h2": "2. Dane logowania",
+      "3-p": "Możemy również gromadzić informacje, które Twoja przeglądarka wysyła za każdym razem, gdy odwiedzasz nasze Usługi (\"Dane logowania\"). Dane te mogą obejmować takie informacje, jak adres Protokołu Internetowego (\"IP\") Twojego komputera, typ przeglądarki, wersja przeglądarki, strony naszych Usług, które odwiedzasz, czas i data Twojej wizyty, czas spędzony na tych stronach oraz inne statystyki.",
+      "4-h2": "3. Pliki cookie",
+      "4-p": "Pliki cookie to pliki zawierające niewielką ilość danych, które mogą zawierać anonimowy, unikalny identyfikator. Pliki cookie są wysyłane do Twojej przeglądarki ze strony internetowej i przechowywane na dysku twardym Twojego komputera. Używamy \"plików cookie\" do gromadzenia informacji. Możesz poinstruować swoją przeglądarkę, aby odrzucała wszystkie pliki cookie lub informowała o wysyłaniu pliku cookie. Jeśli jednak nie akceptujesz plików cookie, możesz nie być w stanie korzystać z niektórych części naszych Usług.",
+      "5-h2": "4. Dostawcy usług",
+      "5-p-1": "Możemy korzystać z usług firm i osób trzecich w celu ułatwienia świadczenia naszych Usług, świadczenia Usług w naszym imieniu, świadczenia usług związanych z Usługami lub pomocy w analizie sposobu korzystania z naszych Usług. Te osoby trzecie mają dostęp do Twoich Danych Osobowych wyłącznie w celu wykonywania tych zadań w naszym imieniu i są zobowiązane do nieujawniania ani nie wykorzystywania ich w żadnym innym celu.",
+      "6-h2": "5. Bezpieczeństwo",
+      "6-p": "Bezpieczeństwo Twoich Danych Osobowych jest dla nas ważne, ale pamiętaj, że żadna metoda transmisji danych przez Internet ani metoda elektronicznego przechowywania danych nie jest w 100% bezpieczna. Chociaż staramy się stosować komercyjnie akceptowalne środki w celu ochrony Twoich Danych Osobowych, nie możemy zagwarantować ich całkowitego bezpieczeństwa.",
+      "7-h2": "6. Linki do innych stron internetowych",
+      "7-p": "Nasze Usługi mogą zawierać linki do innych stron internetowych, które nie są przez nas obsługiwane. Jeśli klikniesz w link strony trzeciej, zostaniesz przekierowany na stronę internetową tej strony trzeciej. Zdecydowanie zalecamy zapoznanie się z Polityką prywatności każdej odwiedzanej strony internetowej.",
+      "8-h2": "7. Zmiany w niniejszej Polityce prywatności",
+      "8-p": "Możemy od czasu do czasu aktualizować naszą Politykę prywatności. O wszelkich zmianach powiadomimy Cię, publikując nową Politykę prywatności na tej stronie.",
+      "9-h2": "8. Skontaktuj się z nami",
+      "9-p": "Jeśli masz jakiekolwiek pytania dotyczące niniejszej Polityki prywatności, skontaktuj się z nami."
+    },
+    "termsConditions": {
+      "1-h1": "Regulamin Game3RB",
+      "1-p": "Witamy w Game3RB! Niniejszy Regulamin reguluje korzystanie z tej witryny internetowej, dostępnej pod adresem https://Game3RB.games.",
+      "2-h2": "1. Dostęp do witryny",
+      "2-p": "Dostęp do tej witryny jest przyznawany tymczasowo i zastrzegamy sobie prawo do wycofania lub zmiany usług oferowanych w tej witrynie bez uprzedzenia (patrz poniżej). Nie ponosimy odpowiedzialności, jeśli z jakiegokolwiek powodu ta witryna jest niedostępna w dowolnym momencie lub przez dowolny okres.",
+      "3-h2": "2. Własność intelektualna",
+      "3-p": "O ile nie określono inaczej, prawa własności intelektualnej do tej witryny i materiałów użytych w tej witrynie należą do nas lub naszych licencjodawców. Wszystkie te prawa własności intelektualnej są zastrzeżone. Możesz uzyskać dostęp do tej witryny w celu jej przeglądania na własny użytek osobisty, z zastrzeżeniem ograniczeń określonych w niniejszym Regulaminie.",
+      "4-h2": "3. Gromadzenie danych",
+      "4-p": "Gromadzenie i wykorzystywanie Twoich informacji podlega naszej Polityce prywatności.",
+      "5-h2": "4. Prawo właściwe",
+      "5-p": "Niniejszy Regulamin podlega i będzie interpretowany zgodnie z prawem Stanów Zjednoczonych, bez względu na przepisy kolizyjne.",
+      "6-h2": "5. Zmiany Regulaminu",
+      "6-p": "Zastrzegamy sobie prawo, według własnego uznania, do zmiany lub zastąpienia niniejszego Regulaminu w dowolnym momencie. Jeśli zmiana jest istotna, dołożymy wszelkich starań, aby powiadomić o tym z co najmniej 30-dniowym wyprzedzeniem przed wejściem w życie nowych warunków. To, co stanowi istotną zmianę, zostanie określone wyłącznie według naszego uznania.",
+      "7-h2": "6. Skontaktuj się z nami",
+      "7-p": "Jeśli masz jakiekolwiek pytania dotyczące niniejszego Regulaminu, skontaktuj się z nami.",
+      "last-p": "Korzystając z naszej witryny, wyrażasz zgodę na przestrzeganie niniejszego Regulaminu."
+    }
+  },
+  "NotFound": {
+    "title": "Błąd 404 - Nie znaleziono strony",
+    "goHome": "Przejdź do strony głównej"
+  },
+  "Home": {
+    "title": "Witamy w Game3RB - Najlepsza strona z darmowymi grami online",
+    "newest-free-ai-navigate": "Najnowsze darmowe gry AI",
+    "hottest-free-ai-navigate": "Najpopularniejsze darmowe gry AI",
+    "exploreMore": "Odkryj więcej gier",
+    "checkDetail": "Zobacz szczegóły",
+    "search": "Szukaj",
+    "result": "Wyniki wyszukiwania",
+    "empty": "Brak danych"
+  },
+  "Explore": {
+    "title": "Odkryj {num} polecanych nowych gier na Game3RB",
+    "more": "Odkryj więcej",
+    "all": "Wszystkie gry na Game3RB"
+  },
+  "Category": {
+    "title": "Wszystkie kategorie",
+    "home": "Strona główna",
+    "empty": "Brak danych"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - Graj w najnowsze darmowe gry online - kiedykolwiek i gdziekolwiek chcesz",
+      "description": "Game3RB to najlepsza strona z grami, na której możesz grać w najnowsze i najlepsze darmowe gry online. Ciesz się szeroką gamą gier z różnych gatunków bez konieczności ich pobierania!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "Odkryj {num} najlepszych gier 2024 roku | Game3RB",
+      "titlePage": "Odkryj {num} najlepszych gier 2024 roku (Strona {page}) | Game3RB",
+      "titlePrefix": "Odkryj Game3RB",
+      "titleSuffix": "Game3RB",
+      "description": "Odkryj najnowsze i najlepsze darmowe gry online na Game3RB! Ciesz się szeroką gamą gier z różnych gatunków, w tym akcji, przygodowych i wielu innych, bez konieczności ich pobierania!",
+      "keywords": "darmowe gry online, nowe gry, gry przeglądarkowe"
+    },
+    "category": {
+      "title": "Graj w gry {genre} | Game3RB"
+    }
+  }
+}

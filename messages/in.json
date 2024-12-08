@@ -1,0 +1,146 @@
+{
+  "Common": {
+    "loading": "Memuat..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Semua game",
+    "menu": "Menu",
+    "categories": "Kategori",
+    "Wordle": "Wordle",
+    "Music": "Musik",
+    "Educational": "Edukasi"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "Mainkan game online gratis terbaru kapan saja, di mana saja",
+    "support": "Dukungan",
+    "privacy": "Kebijakan privasi",
+    "termsConditions": "Syarat dan ketentuan",
+    "contactUs": "Hubungi kami"
+  },
+  "Faq": {
+    "title": "Pertanyaan Umum tentang Game3RB",
+    "1": {
+      "question": "Apa itu Game3RB?",
+      "answer": "Game3RB adalah platform tempat Anda dapat memainkan game online gratis terbaru dan terhebat. Dengan Game3RB, Anda dapat menikmati banyak koleksi game dari berbagai genre tanpa harus mengunduh apa pun."
+    },
+    "2": {
+      "question": "Apakah Game3RB sepenuhnya gratis?",
+      "answer": "Ya, Game3RB 100% gratis. Anda dapat mengakses semua game di Game3RB tanpa berlangganan atau biaya tersembunyi."
+    },
+    "3": {
+      "question": "Apakah saya perlu mengunduh game untuk bermain di Game3RB?",
+      "answer": "Tidak, Anda tidak perlu mengunduh game apa pun. Dengan Game3RB, Anda dapat memainkan semua game secara online langsung, menghemat waktu dan ruang penyimpanan Anda."
+    },
+    "4": {
+      "question": "Jenis game apa yang tersedia di Game3RB?",
+      "answer": "Game3RB menawarkan berbagai macam game, termasuk aksi, petualangan, teka-teki, balapan, dan banyak lagi. Apa pun selera Anda, Anda pasti akan menemukan sesuatu yang Anda sukai di Game3RB."
+    },
+    "5": {
+      "question": "Bisakah saya memainkan game Game3RB di perangkat seluler?",
+      "answer": "Tentu saja! Game3RB dioptimalkan untuk desktop dan perangkat seluler, sehingga Anda dapat menikmati game favorit Anda di mana pun Anda pergi."
+    },
+    "6": {
+      "question": "Seberapa sering Game3RB memperbarui pustaka gamenya?",
+      "answer": "Game3RB secara teratur memperbarui pustaka gamenya untuk memastikan Anda selalu memiliki akses ke game terbaru dan terhebat."
+    },
+    "7": {
+      "question": "Apakah saya memerlukan akun untuk bermain di Game3RB?",
+      "answer": "Tidak, Anda tidak perlu membuat akun untuk bermain di Game3RB. Cukup kunjungi situs web dan mulailah bermain segera."
+    },
+    "8": {
+      "question": "Apakah ada game multipemain di Game3RB?",
+      "answer": "Ya, kami menawarkan game multipemain di mana Anda dapat bersaing atau bekerja sama dengan pemain lain secara online."
+    },
+    "9": {
+      "question": "Apakah aman untuk dimainkan anak-anak?",
+      "answer": "Game3RB menyediakan pengalaman bermain game yang aman untuk pemain dari segala usia. Namun, kami mendorong orang tua untuk meninjau game untuk memastikannya sesuai untuk anak-anak mereka."
+    },
+    "10": {
+      "question": "Bagaimana cara menemukan game yang mungkin saya sukai?",
+      "answer": "Dengan fungsi pencarian dan kategori kami yang mudah digunakan, Anda dapat dengan mudah memfilter game berdasarkan genre, popularitas, tanggal, dan banyak lagi."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Kebijakan Privasi Game3RB",
+      "1-p": "Halaman ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan mengungkapkan Informasi Pribadi Anda saat Anda menggunakan Layanan kami. Dengan menggunakan Layanan kami, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan Kebijakan ini.",
+      "2-h2": "1. Pengumpulan dan Penggunaan Informasi",
+      "2-p": "Kami dapat meminta Anda untuk memberikan Informasi Pribadi tertentu kepada kami yang dapat digunakan untuk menghubungi atau mengidentifikasi Anda. Informasi Pribadi dapat mencakup, tetapi tidak terbatas pada:",
+      "3-h2": "2. Data Log",
+      "3-p": "Kami juga dapat mengumpulkan informasi yang dikirimkan browser Anda setiap kali Anda mengunjungi Layanan kami (\"Data Log\"). Data Log ini dapat mencakup informasi seperti alamat Protokol Internet (\"IP\") komputer Anda, jenis browser, versi browser, halaman Layanan kami yang Anda kunjungi, waktu dan tanggal kunjungan Anda, waktu yang dihabiskan untuk halaman-halaman tersebut, dan statistik lainnya.",
+      "4-h2": "3. Cookie",
+      "4-p": "Cookie adalah file dengan sejumlah kecil data, yang mungkin menyertakan pengidentifikasi unik anonim. Cookie dikirim ke browser Anda dari situs web dan disimpan di hard drive komputer Anda. Kami menggunakan \"cookie\" untuk mengumpulkan informasi. Anda dapat menginstruksikan browser Anda untuk menolak semua cookie atau untuk menunjukkan kapan cookie sedang dikirim. Namun, jika Anda tidak menerima cookie, Anda mungkin tidak dapat menggunakan beberapa bagian dari Layanan kami.",
+      "5-h2": "4. Penyedia Layanan",
+      "5-p-1": "Kami dapat mempekerjakan perusahaan dan individu pihak ketiga untuk memfasilitasi Layanan kami, untuk menyediakan Layanan atas nama kami, untuk melakukan layanan terkait Layanan, atau untuk membantu kami dalam menganalisis bagaimana Layanan kami digunakan. Pihak ketiga ini memiliki akses ke Informasi Pribadi Anda hanya untuk melakukan tugas-tugas ini atas nama kami dan berkewajiban untuk tidak mengungkapkan atau menggunakannya untuk tujuan lain apa pun.",
+      "6-h2": "5. Keamanan",
+      "6-p": "Keamanan Informasi Pribadi Anda penting bagi kami, tetapi ingat bahwa tidak ada metode transmisi melalui Internet, atau metode penyimpanan elektronik yang 100% aman. Meskipun kami berusaha untuk menggunakan cara yang dapat diterima secara komersial untuk melindungi Informasi Pribadi Anda, kami tidak dapat menjamin keamanan absolutnya.",
+      "7-h2": "6. Tautan ke Situs Lain",
+      "7-p": "Layanan kami dapat berisi tautan ke situs lain yang tidak dioperasikan oleh kami. Jika Anda mengklik tautan pihak ketiga, Anda akan diarahkan ke situs pihak ketiga tersebut. Kami sangat menyarankan Anda untuk meninjau Kebijakan Privasi dari setiap situs yang Anda kunjungi.",
+      "8-h2": "7. Perubahan pada Kebijakan Privasi ini",
+      "8-p": "Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Kami akan memberi tahu Anda tentang perubahan apa pun dengan memposting Kebijakan Privasi baru di halaman ini.",
+      "9-h2": "8. Hubungi Kami",
+      "9-p": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami."
+    },
+    "termsConditions": {
+      "1-h1": "Syarat dan Ketentuan Penggunaan Game3RB",
+      "1-p": "Selamat datang di Game3RB! Syarat dan Ketentuan Penggunaan ini mengatur penggunaan situs web ini, yang dapat diakses dari https://Game3RB.games.",
+      "2-h2": "1. Akses ke Situs",
+      "2-p": "Akses ke situs web ini diberikan atas dasar sementara, dan kami berhak untuk menarik atau mengubah layanan yang kami berikan di situs web ini tanpa pemberitahuan (lihat di bawah). Kami tidak akan bertanggung jawab jika, dengan alasan apa pun, situs web ini tidak tersedia kapan saja atau untuk periode apa pun.",
+      "3-h2": "2. Hak Kekayaan Intelektual",
+      "3-p": "Kecuali dinyatakan lain, kami atau pemberi lisensi kami memiliki hak kekayaan intelektual di situs web ini dan materi yang digunakan di situs web ini. Semua hak kekayaan intelektual ini dilindungi undang-undang. Anda dapat mengaksesnya dari situs web ini untuk penggunaan pribadi Anda sendiri tunduk pada batasan yang ditetapkan dalam syarat dan ketentuan ini.",
+      "4-h2": "3. Pengumpulan Data",
+      "4-p": "Kebijakan Privasi kami mengatur pengumpulan dan penggunaan informasi Anda.",
+      "5-h2": "4. Hukum yang Mengatur",
+      "5-p": "Syarat ini akan diatur dan ditafsirkan sesuai dengan hukum Amerika Serikat, tanpa memperhatikan pertentangan ketentuan hukumnya.",
+      "6-h2": "5. Perubahan pada Syarat",
+      "6-p": "Kami berhak, atas kebijakan kami sendiri, untuk mengubah atau mengganti Syarat ini kapan saja. Jika revisi tersebut material, kami akan mencoba memberikan pemberitahuan setidaknya 30 hari sebelumnya sebelum Syarat baru tersebut berlaku. Apa yang merupakan perubahan material akan ditentukan atas kebijakan kami sendiri.",
+      "7-h2": "6. Hubungi Kami",
+      "7-p": "Jika Anda memiliki pertanyaan tentang Syarat ini, silakan hubungi kami.",
+      "last-p": "Dengan menggunakan situs web kami, Anda dengan ini menyetujui untuk terikat dengan Syarat dan Ketentuan Penggunaan ini."
+    }
+  },
+  "NotFound": {
+    "title": "Kesalahan 404 - Halaman Tidak Ditemukan",
+    "goHome": "Kembali ke Beranda"
+  },
+  "Home": {
+    "title": "Selamat datang di Game3RB - Situs Web Game Online Gratis Terbaik",
+    "newest-free-ai-navigate": "Game AI Gratis Terbaru",
+    "hottest-free-ai-navigate": "Game AI Gratis Terpopuler",
+    "exploreMore": "Jelajahi Game Lainnya",
+    "checkDetail": "Pelajari Lebih Lanjut",
+    "search": "Cari",
+    "result": "Hasil pencarian",
+    "empty": "Tidak ada data"
+  },
+  "Explore": {
+    "title": "Temukan {num} Game Baru yang Direkomendasikan di Game3RB",
+    "more": "Jelajahi Lebih Lanjut",
+    "all": "Semua Game di Game3RB"
+  },
+  "Category": {
+    "title": "Semua Kategori",
+    "home": "Beranda",
+    "empty": "Tidak ada data"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - Mainkan Game Online Gratis Terbaru Kapan Saja, Di Mana Saja",
+      "description": "Game3RB adalah situs web game terbaik tempat Anda dapat memainkan game online gratis terbaru dan terhebat. Nikmati banyak koleksi game dari berbagai genre tanpa unduhan!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "Temukan {num} Game Terbaik Tahun 2024 | Game3RB",
+      "titlePage": "Temukan {num} Game Terbaik Tahun 2024 (Halaman {page}) | Game3RB",
+      "titlePrefix": "Temukan Game3RB",
+      "titleSuffix": "Game3RB",
+      "description": "Temukan game online gratis terbaru dan terhebat di Game3RB! Nikmati banyak koleksi game dari berbagai genre, termasuk aksi, petualangan, dan banyak lagi, tanpa unduhan!",
+      "keywords": "game online gratis, game baru, game browser"
+    },
+    "category": {
+      "title": "Mainkan Game {genre} | Game3RB"
+    }
+  }
+}

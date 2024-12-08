@@ -1,0 +1,146 @@
+{
+  "Common": {
+    "loading": "Memuatkan..."
+  },
+  "Navigation": {
+    "title": "Game3RB",
+    "discover": "Semua Permainan",
+    "menu": "Menu",
+    "categories": "Kategori",
+    "Wordle": "Wordle",
+    "Music": "Muzik",
+    "Educational": "Pendidikan"
+  },
+  "Footer": {
+    "title": "Game3RB",
+    "subTitle": "Main permainan dalam talian percuma terkini bila-bila masa, di mana-mana sahaja",
+    "support": "Sokongan",
+    "privacy": "Dasar Privasi",
+    "termsConditions": "Terma dan Syarat",
+    "contactUs": "Hubungi Kami"
+  },
+  "Faq": {
+    "title": "Soalan Lazim tentang Game3RB",
+    "1": {
+      "question": "Apakah Game3RB?",
+      "answer": "Game3RB ialah platform di mana anda boleh bermain permainan dalam talian percuma terkini dan terhebat. Dengan Game3RB, anda boleh menikmati pelbagai koleksi permainan daripada pelbagai genre tanpa perlu memuat turun apa-apa."
+    },
+    "2": {
+      "question": "Adakah Game3RB percuma sepenuhnya?",
+      "answer": "Ya, Game3RB adalah 100% percuma. Anda boleh mengakses semua permainan di Game3RB tanpa sebarang langganan atau caj tersembunyi."
+    },
+    "3": {
+      "question": "Perlukah saya memuat turun permainan untuk bermain di Game3RB?",
+      "answer": "Tidak, anda tidak perlu memuat turun sebarang permainan. Dengan Game3RB, anda boleh bermain semua permainan terus dalam talian, menjimatkan masa dan ruang storan anda."
+    },
+    "4": {
+      "question": "Apakah jenis permainan yang tersedia di Game3RB?",
+      "answer": "Game3RB menawarkan pelbagai jenis permainan, termasuk aksi, pengembaraan, teka-teki, perlumbaan dan banyak lagi. Apa sahaja citarasa anda, anda pasti akan menemui sesuatu yang anda sukai di Game3RB."
+    },
+    "5": {
+      "question": "Bolehkah saya bermain permainan Game3RB pada peranti mudah alih?",
+      "answer": "Sudah tentu! Game3RB dioptimumkan untuk desktop dan peranti mudah alih, jadi anda boleh menikmati permainan kegemaran anda di mana-mana sahaja anda pergi."
+    },
+    "6": {
+      "question": "Berapa kerapkah Game3RB mengemas kini pustaka permainannya?",
+      "answer": "Game3RB kerap mengemas kini pustaka permainannya untuk memastikan anda sentiasa mempunyai akses kepada permainan terkini dan terhebat."
+    },
+    "7": {
+      "question": "Adakah saya memerlukan akaun untuk bermain di Game3RB?",
+      "answer": "Tidak, anda tidak perlu membuat akaun untuk bermain di Game3RB. Cuma lawati laman web dan mula bermain dengan segera."
+    },
+    "8": {
+      "question": "Adakah terdapat permainan berbilang pemain di Game3RB?",
+      "answer": "Ya, kami menawarkan permainan berbilang pemain di mana anda boleh bersaing atau bekerjasama dengan pemain lain dalam talian."
+    },
+    "9": {
+      "question": "Adakah selamat untuk kanak-kanak bermain?",
+      "answer": "Game3RB menyediakan pengalaman bermain permainan yang selamat untuk pemain dari semua peringkat umur. Walau bagaimanapun, kami menggalakkan ibu bapa untuk menyemak permainan untuk memastikan ia sesuai untuk anak-anak mereka."
+    },
+    "10": {
+      "question": "Bagaimana saya boleh mencari permainan yang mungkin saya sukai?",
+      "answer": "Dengan fungsi carian dan kategori kami yang mudah digunakan, anda boleh menapis permainan dengan mudah mengikut genre, populariti, tarikh dan banyak lagi."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Dasar Privasi Game3RB",
+      "1-p": "Halaman ini menerangkan cara kami mengumpul, menggunakan dan mendedahkan Maklumat Peribadi anda apabila anda menggunakan Perkhidmatan kami. Dengan menggunakan Perkhidmatan kami, anda bersetuju dengan pengumpulan dan penggunaan maklumat mengikut Dasar ini.",
+      "2-h2": "1. Pengumpulan dan Penggunaan Maklumat",
+      "2-p": "Kami mungkin meminta anda memberikan Maklumat Peribadi tertentu kepada kami yang boleh digunakan untuk menghubungi atau mengenal pasti anda. Maklumat Peribadi mungkin termasuk, tetapi tidak terhad kepada:",
+      "3-h2": "2. Data Log",
+      "3-p": "Kami juga boleh mengumpul maklumat yang dihantar oleh pelayar anda setiap kali anda melawati Perkhidmatan kami (\"Data Log\"). Data Log ini mungkin termasuk maklumat seperti alamat Protokol Internet (\"IP\") komputer anda, jenis pelayar, versi pelayar, halaman Perkhidmatan kami yang anda lawati, masa dan tarikh lawatan anda, masa yang diluangkan pada halaman tersebut dan statistik lain.",
+      "4-h2": "3. Kuki",
+      "4-p": "Kuki ialah fail dengan jumlah data yang kecil, yang mungkin termasuk pengecam unik tanpa nama. Kuki dihantar ke pelayar anda daripada laman web dan disimpan pada cakera keras komputer anda. Kami menggunakan \"kuki\" untuk mengumpul maklumat. Anda boleh mengarahkan pelayar anda untuk menolak semua kuki atau untuk menunjukkan bila kuki sedang dihantar. Walau bagaimanapun, jika anda tidak menerima kuki, anda mungkin tidak dapat menggunakan beberapa bahagian Perkhidmatan kami.",
+      "5-h2": "4. Penyedia Perkhidmatan",
+      "5-p-1": "Kami mungkin menggaji syarikat dan individu pihak ketiga untuk memudahkan Perkhidmatan kami, untuk menyediakan Perkhidmatan bagi pihak kami, untuk melaksanakan perkhidmatan berkaitan Perkhidmatan atau untuk membantu kami dalam menganalisis cara Perkhidmatan kami digunakan. Pihak ketiga ini mempunyai akses kepada Maklumat Peribadi anda hanya untuk melaksanakan tugas-tugas ini bagi pihak kami dan diwajibkan untuk tidak mendedahkan atau menggunakannya untuk sebarang tujuan lain.",
+      "6-h2": "5. Keselamatan",
+      "6-p": "Keselamatan Maklumat Peribadi anda adalah penting bagi kami, tetapi ingat bahawa tiada kaedah penghantaran melalui Internet atau kaedah penyimpanan elektronik yang 100% selamat. Walaupun kami berusaha untuk menggunakan cara yang boleh diterima secara komersial untuk melindungi Maklumat Peribadi anda, kami tidak dapat menjamin keselamatan mutlaknya.",
+      "7-h2": "6. Pautan ke Laman Lain",
+      "7-p": "Perkhidmatan kami mungkin mengandungi pautan ke laman lain yang tidak dikendalikan oleh kami. Jika anda mengklik pautan pihak ketiga, anda akan diarahkan ke laman pihak ketiga tersebut. Kami sangat mengesyorkan agar anda menyemak Dasar Privasi setiap laman yang anda lawati.",
+      "8-h2": "7. Perubahan pada Dasar Privasi ini",
+      "8-p": "Kami mungkin mengemas kini Dasar Privasi kami dari semasa ke semasa. Kami akan memaklumkan anda tentang sebarang perubahan dengan menyiarkan Dasar Privasi baharu di halaman ini.",
+      "9-h2": "8. Hubungi Kami",
+      "9-p": "Jika anda mempunyai sebarang soalan tentang Dasar Privasi ini, sila hubungi kami."
+    },
+    "termsConditions": {
+      "1-h1": "Terma dan Syarat Penggunaan Game3RB",
+      "1-p": "Selamat datang ke Game3RB! Terma dan Syarat Penggunaan ini mengawal selia penggunaan anda laman web ini, yang boleh diakses dari https://Game3RB.games.",
+      "2-h2": "1. Akses ke Laman",
+      "2-p": "Akses ke laman web ini diberikan atas dasar sementara dan kami berhak untuk menarik balik atau meminda perkhidmatan yang kami sediakan di laman web ini tanpa notis (lihat di bawah). Kami tidak akan bertanggungjawab jika, atas apa-apa sebab, laman web ini tidak tersedia pada bila-bila masa atau untuk apa-apa tempoh.",
+      "3-h2": "2. Hak Harta Intelek",
+      "3-p": "Melainkan dinyatakan sebaliknya, kami atau pemberi lesen kami memiliki hak harta intelek dalam laman web ini dan bahan yang digunakan di laman web ini. Semua hak harta intelek ini dilindungi undang-undang. Anda boleh mengaksesnya dari laman web ini untuk kegunaan peribadi anda sendiri tertakluk kepada sekatan yang ditetapkan dalam terma dan syarat ini.",
+      "4-h2": "3. Pengumpulan Data",
+      "4-p": "Dasar Privasi kami mengawal selia pengumpulan dan penggunaan maklumat anda.",
+      "5-h2": "4. Undang-undang yang Memerintah",
+      "5-p": "Terma ini akan ditadbir dan ditafsirkan mengikut undang-undang Amerika Syarikat, tanpa mengambil kira pertentangan peruntukan undang-undangnya.",
+      "6-h2": "5. Perubahan pada Terma",
+      "6-p": "Kami berhak, atas budi bicara mutlak kami, untuk meminda atau menggantikan Terma ini pada bila-bila masa. Jika semakan itu adalah material, kami akan cuba memberikan notis sekurang-kurangnya 30 hari sebelum sebarang terma baharu berkuat kuasa. Apa yang merupakan perubahan material akan ditentukan mengikut budi bicara mutlak kami.",
+      "7-h2": "6. Hubungi Kami",
+      "7-p": "Jika anda mempunyai sebarang soalan tentang Terma ini, sila hubungi kami.",
+      "last-p": "Dengan menggunakan laman web kami, anda dengan ini bersetuju untuk terikat dengan Terma dan Syarat Penggunaan ini."
+    }
+  },
+  "NotFound": {
+    "title": "Ralat 404 - Halaman Tidak Ditemui",
+    "goHome": "Kembali ke Halaman Utama"
+  },
+  "Home": {
+    "title": "Selamat Datang ke Game3RB - Laman Web Permainan Dalam Talian Percuma Terbaik",
+    "newest-free-ai-navigate": "Permainan AI Percuma Terkini",
+    "hottest-free-ai-navigate": "Permainan AI Percuma Paling Popular",
+    "exploreMore": "Terokai Lebih Banyak Permainan",
+    "checkDetail": "Ketahui Lebih Lanjut",
+    "search": "Carian",
+    "result": "Hasil carian",
+    "empty": "Tiada data"
+  },
+  "Explore": {
+    "title": "Temui {num} Permainan Baharu yang Disyorkan di Game3RB",
+    "more": "Terokai Lebih Lanjut",
+    "all": "Semua Permainan di Game3RB"
+  },
+  "Category": {
+    "title": "Semua Kategori",
+    "home": "Halaman Utama",
+    "empty": "Tiada data"
+  },
+  "Metadata": {
+    "home": {
+      "title": "Game3RB - Main Permainan Dalam Talian Percuma Terkini Bila-bila Masa, Di Mana-mana Sahaja",
+      "description": "Game3RB ialah laman web permainan terbaik di mana anda boleh bermain permainan dalam talian percuma terkini dan terhebat. Nikmati pelbagai koleksi permainan daripada pelbagai genre tanpa muat turun!",
+      "keywords": "Game3RB"
+    },
+    "explore": {
+      "title": "Temui {num} Permainan Terbaik Tahun 2024 | Game3RB",
+      "titlePage": "Temui {num} Permainan Terbaik Tahun 2024 (Halaman {page}) | Game3RB",
+      "titlePrefix": "Temui Game3RB",
+      "titleSuffix": "Game3RB",
+      "description": "Temui permainan dalam talian percuma terkini dan terhebat di Game3RB! Nikmati pelbagai koleksi permainan daripada pelbagai genre, termasuk aksi, pengembaraan dan banyak lagi, tanpa muat turun!",
+      "keywords": "permainan dalam talian percuma, permainan baharu, permainan pelayar"
+    },
+    "category": {
+      "title": "Main Permainan {genre} | Game3RB"
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "Common": {
+    "loading": "Chargement en cours..."
+  },
+  "Navigation": {
+    "title": "L'Aventure de Noël",
+    "discover": "Tous les jeux",
+    "menu": "Menu",
+    "categories": "Catégories",
+    "christmas": "Noël",
+    "puzzle": "Puzzle",
+    "girls": "Filles"
+  },
+  "Footer": {
+    "title": "L'Aventure de Noël",
+    "subTitle": "Une expérience de jeu festive pour tous !",
+    "support": "Assistance",
+    "privacy": "Politique de confidentialité",
+    "termsConditions": "Conditions générales d'utilisation",
+    "contactUs": "Nous contacter"
+  },
+  "Faq": {
+    "title": "Foire aux questions sur L'Aventure de Noël",
+    "1": {
+      "question": "Qu'est-ce que L'Aventure de Noël ?",
+      "answer": "L'Aventure de Noël est une plateforme où vous pouvez jouer aux derniers jeux en ligne gratuits les plus populaires. Avec L'Aventure de Noël, vous pouvez profiter d'une vaste collection de jeux dans différents genres sans avoir besoin de télécharger quoi que ce soit."
+    },
+    "2": {
+      "question": "L'Aventure de Noël est-elle entièrement gratuite ?",
+      "answer": "Oui, L'Aventure de Noël est 100% gratuite. Vous pouvez accéder à tous les jeux sur L'Aventure de Noël sans abonnement ni frais cachés."
+    },
+    "3": {
+      "question": "Dois-je télécharger des jeux pour jouer sur L'Aventure de Noël ?",
+      "answer": "Non, vous n'avez pas besoin de télécharger de jeux. L'Aventure de Noël vous permet de jouer à tous les jeux directement en ligne, ce qui vous fait gagner du temps et de l'espace de stockage."
+    },
+    "4": {
+      "question": "Quels types de jeux sont disponibles sur L'Aventure de Noël ?",
+      "answer": "L'Aventure de Noël propose une grande variété de jeux, notamment d'action, d'aventure, de puzzle, de course, etc. Quels que soient vos préférences, L'Aventure de Noël a quelque chose pour tout le monde."
+    },
+    "5": {
+      "question": "Puis-je jouer aux jeux de L'Aventure de Noël sur des appareils mobiles ?",
+      "answer": "Absolument ! L'Aventure de Noël est optimisée pour les ordinateurs de bureau et les appareils mobiles, vous pouvez donc profiter de vos jeux préférés lors de vos déplacements."
+    },
+    "6": {
+      "question": "À quelle fréquence L'Aventure de Noël met-elle à jour sa ludothèque ?",
+      "answer": "L'Aventure de Noël met à jour sa ludothèque régulièrement, vous assurant ainsi d'avoir toujours accès aux jeux les plus récents et les plus passionnants."
+    },
+    "7": {
+      "question": "L'Aventure de Noël nécessite-t-elle un compte pour jouer à des jeux ?",
+      "answer": "Non, vous n'avez pas besoin d'un compte pour jouer à des jeux sur L'Aventure de Noël. Visitez simplement le site Web et commencez à jouer instantanément."
+    },
+    "8": {
+      "question": "Y a-t-il des jeux multijoueurs sur L'Aventure de Noël ?",
+      "answer": "Oui, L'Aventure de Noël propose une sélection de jeux multijoueurs où vous pouvez affronter ou collaborer avec d'autres joueurs en ligne."
+    },
+    "9": {
+      "question": "L'Aventure de Noël est-elle sûre pour les enfants ?",
+      "answer": "L'Aventure de Noël est conçue pour offrir une expérience de jeu sûre, avec des jeux adaptés à tous les âges. Cependant, les parents sont encouragés à examiner les jeux pour s'assurer qu'ils répondent aux préférences de leurs enfants."
+    },
+    "10": {
+      "question": "Comment puis-je trouver mes jeux préférés sur L'Aventure de Noël ?",
+      "answer": "L'Aventure de Noël propose un système de recherche et de catégories convivial, vous permettant de trouver rapidement vos jeux préférés par genre, popularité ou date de sortie."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Politique de confidentialité pour L'Aventure de Noël",
+      "1-p": "Cette page est utilisée pour informer les visiteurs de mes politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles si quelqu'un décide d'utiliser mon service. Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation des informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec qui que ce soit, sauf dans les cas décrits dans la présente politique de confidentialité. Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales d'utilisation.",
+      "2-h2": "1. Collecte et utilisation des informations",
+      "2-p": "Pour une meilleure expérience, lors de l'utilisation de mon service, je peux vous demander de me fournir certaines informations personnellement identifiables. Les informations que je demande seront conservées sur votre appareil et ne seront en aucun cas collectées par moi. L'application utilise des services tiers qui peuvent collecter des informations utilisées pour vous identifier.",
+      "3-h2": "2. Données de journal",
+      "3-p": "Je tiens à vous informer que chaque fois que vous utilisez mon service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone appelées données de journal. Ces données de journal peuvent inclure des informations telles que l'adresse IP (Internet Protocol) de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service, ainsi que d'autres statistiques.",
+      "4-h2": "3. Cookies",
+      "4-p": "Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil. Ce service n'utilise pas ces « cookies » explicitement. Cependant, l'application peut utiliser du code et des bibliothèques tiers qui utilisent des « cookies » pour collecter des informations et améliorer leurs services. Vous avez la possibilité d'accepter ou de refuser ces cookies et de savoir quand un cookie est envoyé à votre appareil. Si vous choisissez de refuser nos cookies, vous ne pourrez peut-être pas utiliser certaines parties de ce service.",
+      "5-h2": "4. Fournisseurs de services",
+      "5-p-1": "Je peux employer des sociétés tierces et des particuliers pour les raisons suivantes :",
+      "5-li-1": "Pour faciliter notre service ;",
+      "5-li-2": "Pour fournir le service en notre nom ;",
+      "5-li-3": "Pour effectuer des services liés au service ;",
+      "5-li-4": "Pour nous aider à analyser la façon dont notre service est utilisé ;",
+      "5-p-2": "Je souhaite informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison en est qu'ils doivent effectuer les tâches qui leur sont confiées en notre nom. Cependant, ils sont tenus de ne pas divulguer ni utiliser les informations à d'autres fins.",
+      "6-h2": "5. Sécurité",
+      "6-p": "J'apprécie la confiance que vous m'accordez en me fournissant vos informations personnelles, c'est pourquoi je m'efforce d'utiliser des moyens commercialement acceptables pour les protéger. Mais n'oubliez pas qu'aucune méthode de transmission sur Internet ou de stockage électronique n'est sûre et fiable à 100 %, et je ne peux garantir sa sécurité absolue.",
+      "7-h2": "6. Liens vers d'autres sites",
+      "7-p": "Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un lien tiers, vous serez redirigé vers ce site. Notez que ces sites externes ne sont pas exploités par moi. Par conséquent, je vous conseille vivement de consulter la politique de confidentialité de ces sites Web. Je n'ai aucun contrôle et n'assume aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques des sites ou services tiers.",
+      "8-h2": "7. Modifications de la présente politique de confidentialité",
+      "8-p": "Je peux mettre à jour ma politique de confidentialité de temps à autre. Par conséquent, il est conseillé de consulter régulièrement cette page pour prendre connaissance de tout changement. Je vous informerai de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces modifications entrent en vigueur dès leur publication sur cette page."
+    },
+    "termsConditions": {
+      "1-h1": "Conditions d'utilisation de L'Aventure de Noël",
+      "1-p": "Bienvenue sur L'Aventure de Noël ! Notre site Web, accessible à l'adresse https://Santa's Adventure.games (« Site Web »), est dédié à vous fournir la possibilité de créer des images personnalisées. En accédant à notre site Web ou en l'utilisant, vous acceptez d'être lié par les présentes conditions d'utilisation (« Conditions »). Si vous n'êtes pas d'accord avec une partie quelconque des conditions, il vous est interdit d'utiliser le site Web.",
+      "2-h2": "1. Licence d'utilisation",
+      "2-p": "Une licence limitée, non exclusive et non transférable vous est accordée pour utiliser le site Web et ses services à des fins personnelles et non commerciales. Cette licence n'inclut aucun droit de copier, de modifier ou de distribuer le contenu du site Web ou de l'utiliser à des fins commerciales sans notre consentement écrit préalable.",
+      "3-h2": "2. Propriété",
+      "3-p": "La propriété des images générées à partir de texte sur le site Web appartient à la personne qui a créé l'image. Santa's Adventure.games ne revendique aucune propriété sur les images créées par les utilisateurs.",
+      "4-h2": "3. Collecte des données utilisateur",
+      "4-p": "Nous collectons des données personnelles (nom, adresse e-mail et informations de paiement) et des données non personnelles (cookies Web) pour améliorer nos services. L'utilisation de ces données est régie par notre politique de confidentialité, qui peut être consultée à l'adresse",
+      "terms-of-service": "conditions d'utilisation",
+      "5-h2": "4. Droit applicable",
+      "5-p": "Les présentes conditions seront régies et interprétées conformément aux lois des États-Unis d'Amérique, sans égard aux dispositions relatives aux conflits de lois.",
+      "6-h2": "5. Modifications des conditions",
+      "6-p": "Santa's Adventure se réserve le droit, à sa seule discrétion, de modifier ou de remplacer les présentes conditions à tout moment. Nous informerons les utilisateurs de tout changement par e-mail. Votre utilisation continue du site Web après toute modification des présentes conditions constituera votre acceptation de ces modifications.",
+      "7-h2": "6. Coordonnées",
+      "7-p": "Si vous avez des questions concernant les présentes conditions, veuillez nous contacter à l'adresse support@santaadventure.net.",
+      "last-p": "En utilisant Santa's Adventure, vous signifiez votre acceptation des présentes conditions d'utilisation."
+    }
+  },
+  "NotFound": {
+    "title": "404 Introuvable",
+    "goHome": "Retour à l'accueil"
+  },
+  "Home": {
+    "title": "Bienvenue sur L'Aventure de Noël - Le meilleur endroit pour jouer à des jeux en ligne gratuits",
+    "newest-free-ai-navigate": "Liste des jeux les plus récents sur L'Aventure de Noël",
+    "hottest-free-ai-navigate": "Liste des jeux les plus populaires sur L'Aventure de Noël",
+    "exploreMore": "Obtenir plus de jeux",
+    "checkDetail": "Voir les détails",
+    "search": "Rechercher",
+    "result": "Résultats de la recherche",
+    "empty": "Aucune donnée disponible"
+  },
+  "Explore": {
+    "title": "Découvrez les {num} meilleurs jeux les plus récents sur L'Aventure de Noël",
+    "more": "Plus",
+    "all": "Tous les jeux sur L'Aventure de Noël"
+  },
+  "Category": {
+    "title": "Toutes les catégories",
+    "home": "Accueil",
+    "empty": "Aucune donnée disponible"
+  },
+  "Metadata": {
+    "home": {
+      "title": "L'Aventure de Noël - Aidez le Père Noël à collecter des cadeaux dans ce jeu en ligne festif",
+      "description": "Rejoignez L'Aventure de Noël, un jeu en ligne amusant et engageant pour tous les âges ! Parcourez des paysages enneigés, collectez des cadeaux, affrontez des ennemis et profitez d'un gameplay classique à défilement latéral. Parfait pour la saison des fêtes !",
+      "keywords": "L'Aventure de Noël"
+    },
+    "explore": {
+      "title": "Découvrez les {num} meilleurs jeux les plus récents en 2024 | L'Aventure de Noël",
+      "titlePage": "Découvrez les {num} meilleurs jeux les plus récents, page {page}, en 2024 | L'Aventure de Noël",
+      "titlePrefix": "Explorer L'Aventure de Noël",
+      "titleSuffix": "L'Aventure de Noël",
+      "description": "Découvrez L'Aventure de Noël, votre destination ultime pour les jeux en ligne gratuits les plus récents et les plus passionnants. Profitez d'une vaste collection de jeux dans tous les genres, jouables instantanément sans téléchargement !",
+      "keywords": "L'Aventure de Noël"
+    },
+    "category": {
+      "title": "Toutes les catégories | L'Aventure de Noël"
+    }
+  }
+}

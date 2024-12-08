@@ -1,0 +1,149 @@
+{
+  "Common": {
+    "loading": "Caricamento in corso..."
+  },
+  "Navigation": {
+    "title": "L'Avventura di Babbo Natale",
+    "discover": "Tutti i giochi",
+    "menu": "Menu",
+    "categories": "Categorie",
+    "christmas": "Natale",
+    "puzzle": "Puzzle",
+    "girls": "Ragazze"
+  },
+  "Footer": {
+    "title": "L'Avventura di Babbo Natale",
+    "subTitle": "Un'esperienza di gioco festiva per tutti!",
+    "support": "Supporto",
+    "privacy": "Informativa sulla privacy",
+    "termsConditions": "Termini e condizioni",
+    "contactUs": "Contattaci"
+  },
+  "Faq": {
+    "title": "Domande frequenti su L'Avventura di Babbo Natale",
+    "1": {
+      "question": "Cos'è L'Avventura di Babbo Natale?",
+      "answer": "L'Avventura di Babbo Natale è una piattaforma dove puoi giocare agli ultimi e più popolari giochi online gratuiti. Con L'Avventura di Babbo Natale, puoi goderti una vasta collezione di giochi di vari generi senza dover scaricare nulla."
+    },
+    "2": {
+      "question": "L'Avventura di Babbo Natale è completamente gratuita?",
+      "answer": "Sì, L'Avventura di Babbo Natale è gratuita al 100%. Puoi accedere a tutti i giochi su L'Avventura di Babbo Natale senza alcun abbonamento o costi nascosti."
+    },
+    "3": {
+      "question": "Devo scaricare giochi per giocare su L'Avventura di Babbo Natale?",
+      "answer": "No, non è necessario scaricare alcun gioco. L'Avventura di Babbo Natale ti consente di giocare a tutti i giochi direttamente online, facendoti risparmiare tempo e spazio di archiviazione."
+    },
+    "4": {
+      "question": "Quali tipi di giochi sono disponibili su L'Avventura di Babbo Natale?",
+      "answer": "L'Avventura di Babbo Natale offre un'ampia varietà di giochi, tra cui azione, avventura, puzzle, corse e altro ancora. Qualunque sia la tua preferenza, L'Avventura di Babbo Natale ha qualcosa per tutti."
+    },
+    "5": {
+      "question": "Posso giocare ai giochi de L'Avventura di Babbo Natale su dispositivi mobili?",
+      "answer": "Assolutamente! L'Avventura di Babbo Natale è ottimizzata sia per desktop che per dispositivi mobili, così puoi goderti i tuoi giochi preferiti anche in movimento."
+    },
+    "6": {
+      "question": "Con quale frequenza L'Avventura di Babbo Natale aggiorna la sua libreria di giochi?",
+      "answer": "L'Avventura di Babbo Natale aggiorna la sua libreria di giochi regolarmente, assicurandoti di avere sempre accesso ai giochi più recenti ed entusiasmanti."
+    },
+    "7": {
+      "question": "L'Avventura di Babbo Natale richiede un account per giocare?",
+      "answer": "No, non è necessario un account per giocare su L'Avventura di Babbo Natale. Visita semplicemente il sito web e inizia a giocare all'istante."
+    },
+    "8": {
+      "question": "Ci sono giochi multiplayer su L'Avventura di Babbo Natale?",
+      "answer": "Sì, L'Avventura di Babbo Natale offre una selezione di giochi multiplayer in cui puoi competere o collaborare con altri giocatori online."
+    },
+    "9": {
+      "question": "L'Avventura di Babbo Natale è sicura per i bambini?",
+      "answer": "L'Avventura di Babbo Natale è progettata per fornire un'esperienza di gioco sicura, con giochi appropriati per tutte le età. Tuttavia, si consiglia ai genitori di rivedere i giochi per assicurarsi che siano adatti alle preferenze dei propri figli."
+    },
+    "10": {
+      "question": "Come posso trovare i miei giochi preferiti su L'Avventura di Babbo Natale?",
+      "answer": "L'Avventura di Babbo Natale offre un sistema di ricerca e categorie facile da usare, che ti consente di trovare rapidamente i tuoi giochi preferiti per genere, popolarità o data di rilascio."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Informativa sulla privacy per L'Avventura di Babbo Natale",
+      "1-p": "Questa pagina viene utilizzata per informare i visitatori sulle nostre politiche relative alla raccolta, all'uso e alla divulgazione delle Informazioni Personali. Se scegli di utilizzare il nostro Servizio, accetti la raccolta e l'uso delle informazioni in relazione a questa politica.",
+      "2-h2": "1. Raccolta e utilizzo delle informazioni",
+      "2-p": "Per una migliore esperienza durante l'utilizzo del nostro Servizio, potremmo richiederti di fornirci alcune informazioni personali identificabili. Le informazioni richieste verranno conservate sul tuo dispositivo e non vengono raccolte da noi in alcun modo.",
+      "3-h2": "2. Dati di registro",
+      "3-p": "Ti informiamo che ogni volta che utilizzi il nostro Servizio, in caso di errore nell'app raccogliamo dati e informazioni sul tuo dispositivo chiamati Dati di registro.",
+      "4-h2": "3. Cookie",
+      "4-p": "I cookie sono file contenenti una piccola quantità di dati comunemente utilizzati come identificatori univoci anonimi. Questi vengono inviati al tuo browser dai siti web che visiti e vengono memorizzati nella memoria interna del tuo dispositivo.",
+      "5-h2": "4. Fornitori di servizi",
+      "5-p-1": "Potremmo impiegare società e individui terzi per i seguenti motivi:",
+      "5-li-1": "Per facilitare il nostro Servizio;",
+      "5-li-2": "Per fornire il Servizio per nostro conto;",
+      "5-li-3": "Per eseguire servizi correlati al Servizio;",
+      "5-li-4": "Per aiutarci ad analizzare come viene utilizzato il nostro Servizio;",
+      "5-p-2": "Desideriamo informare gli utenti che questi terzi hanno accesso alle tue Informazioni Personali per svolgere i compiti assegnati per nostro conto.",
+      "6-h2": "5. Sicurezza",
+      "6-p": "Apprezziamo la tua fiducia nel fornirci le tue Informazioni Personali e ci impegniamo a utilizzare mezzi commercialmente accettabili per proteggerle.",
+      "7-h2": "6. Collegamenti ad altri siti",
+      "7-p": "Questo Servizio può contenere collegamenti ad altri siti. Se fai clic su un collegamento di terze parti, verrai indirizzato a quel sito.",
+      "8-h2": "7. Modifiche a questa Informativa sulla privacy",
+      "8-p": "Potremmo aggiornare la nostra Informativa sulla privacy di tanto in tanto. Ti consigliamo quindi di rivedere periodicamente questa pagina."
+    },
+    "termsConditions": {
+      "1-h1": "Termini di servizio per L'Avventura di Babbo Natale",
+      "1-p": "Benvenuto a L'Avventura di Babbo Natale! Il nostro sito web è dedicato a fornirti la possibilità di giocare a giochi online gratuiti.",
+      "2-h2": "1. Licenza d'uso",
+      "2-p": "Ti viene concessa una licenza limitata, non esclusiva e non trasferibile per utilizzare il sito web e i suoi servizi per scopi personali e non commerciali.",
+      "3-h2": "2. Proprietà",
+      "3-p": "La proprietà dei contenuti generati sul sito web appartiene alla persona che li ha creati.",
+      "4-h2": "3. Raccolta dati utente",
+      "4-p": "Raccogliamo dati personali e non personali per migliorare i nostri servizi. L'uso di questi dati è regolato dalla nostra Informativa sulla privacy.",
+      "5-h2": "4. Legge applicabile",
+      "5-p": "Questi Termini saranno regolati e interpretati in conformità con le leggi italiane.",
+      "6-h2": "5. Modifiche ai termini",
+      "6-p": "L'Avventura di Babbo Natale si riserva il diritto di modificare o sostituire questi Termini in qualsiasi momento.",
+      "7-h2": "6. Informazioni di contatto",
+      "7-p": "Per domande su questi Termini, contattaci all'indirizzo support@santaadventure.net.",
+      "last-p": "Utilizzando L'Avventura di Babbo Natale, accetti questi Termini di servizio."
+    }
+  },
+  "NotFound": {
+    "title": "404 Pagina non trovata",
+    "goHome": "Torna alla home"
+  },
+  "Home": {
+    "title": "Benvenuto a L'Avventura di Babbo Natale - Il miglior posto per giocare a giochi online gratuiti",
+    "newest-free-ai-navigate": "Lista dei giochi più recenti su L'Avventura di Babbo Natale",
+    "hottest-free-ai-navigate": "Lista dei giochi più popolari su L'Avventura di Babbo Natale",
+    "exploreMore": "Scopri altri giochi",
+    "checkDetail": "Vedi dettagli",
+    "search": "Cerca",
+    "result": "Risultati della ricerca",
+    "empty": "Nessun dato disponibile"
+  },
+  "Explore": {
+    "title": "Scopri i migliori e più recenti {num} giochi su L'Avventura di Babbo Natale",
+    "more": "Altri",
+    "all": "Tutti i giochi su L'Avventura di Babbo Natale"
+  },
+  "Category": {
+    "title": "Tutte le categorie",
+    "home": "home",
+    "empty": "Nessun dato disponibile"
+  },
+  "Metadata": {
+    "home": {
+      "title": "L'Avventura di Babbo Natale - Aiuta Babbo Natale a raccogliere regali in questo gioco online festivo",
+      "description": "Unisciti all'Avventura di Babbo Natale, un gioco online divertente e coinvolgente per tutte le età! Naviga tra paesaggi innevati, raccogli regali, sconfiggi nemici e goditi il classico gameplay a scorrimento laterale. Perfetto per il periodo natalizio!",
+      "keywords": "L'Avventura di Babbo Natale"
+    },
+    "explore": {
+      "title": "Scopri i migliori e più recenti {num} giochi del 2024 | L'Avventura di Babbo Natale",
+      "titlePage": "Scopri i migliori e più recenti {num} giochi, pagina {page}, del 2024 | L'Avventura di Babbo Natale",
+      "titlePrefix": "Esplora L'Avventura di Babbo Natale",
+      "titleSuffix": "L'Avventura di Babbo Natale",
+      "description": "Scopri L'Avventura di Babbo Natale, la tua destinazione definitiva per i più recenti ed emozionanti giochi online gratuiti. Goditi una vasta collezione di giochi di tutti i generi, giocabili istantaneamente senza download!",
+      "keywords": "L'Avventura di Babbo Natale"
+    },
+    "category": {
+      "title": "Tutte le categorie | L'Avventura di Babbo Natale"
+    }
+  }
+}

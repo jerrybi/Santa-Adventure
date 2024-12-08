@@ -1,0 +1,4 @@
+Sitemap: https://www.ai-findr.com/sitemap.xml
+
+User-agent: *
+Allow: /

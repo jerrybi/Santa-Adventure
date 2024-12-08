@@ -1,0 +1,142 @@
+{
+  "Common": {
+    "loading": "Cargando..."
+  },
+  "Navigation": {
+    "title": "La Aventura de Santa",
+    "discover": "Todos los juegos",
+    "menu": "Menú",
+    "categories": "Categorías",
+    "christmas": "Navidad",
+    "puzzle": "Rompecabezas",
+    "girls": "Chicas"
+  },
+  "Footer": {
+    "title": "La Aventura de Santa",
+    "subTitle": "¡Una experiencia de juego festiva para todos!",
+    "support": "Soporte",
+    "privacy": "Política de privacidad",
+    "termsConditions": "Términos y condiciones",
+    "contactUs": "Contáctanos"
+  },
+  "Faq": {
+    "title": "Preguntas frecuentes sobre La Aventura de Santa",
+    "1": {
+      "question": "¿Qué es La Aventura de Santa?",
+      "answer": "La Aventura de Santa es una plataforma donde puedes jugar los últimos y más populares juegos en línea gratuitos. Con La Aventura de Santa, puedes disfrutar de una amplia colección de juegos de varios géneros sin necesidad de descargar nada."
+    },
+    "2": {
+      "question": "¿La Aventura de Santa es completamente gratuita?",
+      "answer": "Sí, La Aventura de Santa es 100% gratuita. Puedes acceder a todos los juegos en La Aventura de Santa sin ninguna suscripción o cargo oculto."
+    },
+    "3": {
+      "question": "¿Necesito descargar juegos para jugar en La Aventura de Santa?",
+      "answer": "No, no necesitas descargar ningún juego. La Aventura de Santa te permite jugar todos los juegos directamente en línea, ahorrándote tiempo y espacio de almacenamiento."
+    },
+    "4": {
+      "question": "¿Qué tipos de juegos están disponibles en La Aventura de Santa?",
+      "answer": "La Aventura de Santa ofrece una amplia variedad de juegos, que incluyen acción, aventura, rompecabezas, carreras y más. No importa tu preferencia, La Aventura de Santa tiene algo para todos."
+    },
+    "5": {
+      "question": "¿Puedo jugar a los juegos de La Aventura de Santa en dispositivos móviles?",
+      "answer": "¡Absolutamente! La Aventura de Santa está optimizada tanto para computadoras de escritorio como para dispositivos móviles, por lo que puedes disfrutar de tus juegos favoritos mientras viajas."
+    },
+    "6": {
+      "question": "¿Con qué frecuencia actualiza La Aventura de Santa su biblioteca de juegos?",
+      "answer": "La Aventura de Santa actualiza su biblioteca de juegos con regularidad, lo que garantiza que siempre tengas acceso a los juegos más nuevos y emocionantes."
+    },
+    "7": {
+      "question": "¿La Aventura de Santa requiere una cuenta para jugar?",
+      "answer": "No, no necesitas una cuenta para jugar en La Aventura de Santa. Simplemente visita el sitio web y comienza a jugar al instante."
+    },
+    "8": {
+      "question": "¿Hay juegos multijugador en La Aventura de Santa?",
+      "answer": "Sí, La Aventura de Santa ofrece una selección de juegos multijugador en los que puedes competir o colaborar con otros jugadores en línea."
+    },
+    "9": {
+      "question": "¿La Aventura de Santa es segura para los niños?",
+      "answer": "La Aventura de Santa está diseñada para brindar una experiencia de juego segura, con juegos apropiados para todas las edades. Sin embargo, se recomienda a los padres que revisen los juegos para asegurarse de que se ajusten a las preferencias de sus hijos."
+    },
+    "10": {
+      "question": "¿Cómo puedo encontrar mis juegos favoritos en La Aventura de Santa?",
+      "answer": "La Aventura de Santa ofrece un sistema de búsqueda y categorías fácil de usar, lo que te permite encontrar rápidamente tus juegos favoritos por género, popularidad o fecha de lanzamiento."
+    }
+  },
+  "FooterNavigation": {
+    "privacyPolicy": {
+      "1-h1": "Política de privacidad de La Aventura de Santa",
+      "1-p": "Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, el uso y la divulgación de información personal si alguien decide utilizar mi servicio. Si eliges utilizar mi servicio, entonces aceptas la recopilación y el uso de información en relación con esta política. La información personal que recopilo se utiliza para proporcionar y mejorar el servicio. No utilizaré ni compartiré tu información con nadie, excepto como se describe en esta Política de privacidad. Los términos utilizados en esta Política de privacidad tienen el mismo significado que en nuestros Términos y condiciones, a los que se puede acceder en La Aventura de Santa.",
+      "2-h2": "1. Recopilación y uso de información",
+      "2-p": "Para una mejor experiencia, mientras utilizas mi servicio, es posible que te solicite que me proporciones cierta información de identificación personal, que incluye, entre otros, la dirección IP, el modelo de teléfono y una identificación única del dispositivo. La información que solicito será retenida por mí y utilizada como se describe en esta política de privacidad.",
+      "3-h2": "2. Datos de registro",
+      "3-p": "Quiero informarte que cada vez que utilizas mi servicio, en caso de un error en la aplicación, recopilo datos e información (a través de productos de terceros) en tu teléfono llamados Datos de registro. Estos Datos de registro pueden incluir información como la dirección del Protocolo de Internet («IP») de tu dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utilizas mi servicio, la hora y la fecha de tu uso del servicio y otras estadísticas.",
+      "4-h2": "3. Cookies",
+      "4-p": "Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a tu navegador desde los sitios web que visitas y se almacenan en la memoria interna de tu dispositivo. Este servicio no utiliza estas «cookies» explícitamente. Sin embargo, la aplicación puede utilizar código de terceros y bibliotecas que utilizan «cookies» para recopilar información y mejorar sus servicios. Tienes la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a tu dispositivo. Si eliges rechazar nuestras cookies, es posible que no puedas utilizar algunas partes de este servicio.",
+      "5-h2": "4. Proveedores de servicios",
+      "5-p-1": "Puedo emplear empresas e individuos externos por los siguientes motivos:",
+      "5-li-1": "Para facilitar nuestro servicio;",
+      "5-li-2": "Para proporcionar el servicio en nuestro nombre;",
+      "5-li-3": "Para realizar servicios relacionados con el servicio; o",
+      "5-li-4": "Para ayudarnos a analizar cómo se utiliza nuestro servicio.",
+      "5-p-2": "Quiero informar a los usuarios de este servicio que estos terceros tienen acceso a su información personal. La razón es realizar las tareas que se les asignan en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro propósito.",
+      "6-h2": "5. Seguridad",
+      "6-p": "Valoro tu confianza al proporcionarnos tu información personal, por lo que nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerda que ningún método de transmisión a través de Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no puedo garantizar su seguridad absoluta.",
+      "7-h2": "6. Enlaces a otros sitios",
+      "7-p": "Este servicio puede contener enlaces a otros sitios. Si haces clic en un enlace de un tercero, se te dirigirá a ese sitio. Ten en cuenta que estos sitios externos no son operados por mí. Por lo tanto, te recomiendo encarecidamente que revises la Política de privacidad de estos sitios web. No tengo control ni asumo ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros.",
+      "8-h2": "7. Cambios en esta Política de privacidad",
+      "8-p": "Puedo actualizar nuestra Política de privacidad de vez en cuando. Por lo tanto, te aconsejamos que revises periódicamente esta página para ver si hay cambios. Te notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página. Estos cambios entrarán en vigor inmediatamente después de su publicación en esta página."
+    },
+    "termsConditions": {
+      "1-h1": "Términos y condiciones de La Aventura de Santa",
+      "1-p": "¡Bienvenido a La Aventura de Santa! Estos términos y condiciones («Términos», «Acuerdo») son un acuerdo entre el operador del sitio web («operador», «nosotros» o «nuestro») y tú («Usuario», «tú» o «tuyo»). Este Acuerdo establece los términos y condiciones generales de tu uso de este sitio web y cualquiera de sus productos o servicios (colectivamente, el «sitio web» o los «servicios»).",
+      "2-h2": "Cuentas y membresía",
+      "2-p": "Si creas una cuenta en el sitio web, eres responsable de mantener la confidencialidad de tu cuenta y contraseña, y aceptas la responsabilidad total de todas las actividades que ocurran bajo tu cuenta o contraseña. Puedes acceder, corregir, actualizar y eliminar la información de tu cuenta en cualquier momento. Nos reservamos el derecho de cancelar tu cuenta o suspender tu acceso al sitio web, sin previo aviso ni responsabilidad, por cualquier motivo, incluyendo, entre otros, si incumples el Acuerdo.",
+      "3-h2": "Contenido generado por el usuario",
+      "3-p": "El sitio web te permite publicar, vincular, almacenar, compartir y poner a disposición de otro modo cierta información, texto, gráficos u otro material («Contenido generado por el usuario»). Eres el único responsable de la exactitud, calidad, integridad, legalidad, confiabilidad, idoneidad y propiedad intelectual o derecho de uso de todo el Contenido generado por el usuario. Podemos, pero no estamos obligados a, monitorear el Contenido generado por el usuario publicado o creado por ti en el sitio web por cualquier motivo. Puedes estar expuesto a Contenido generado por el usuario que sea ofensivo, indecente, inexacto, objetable o de otro modo inapropiado. No asumimos ninguna responsabilidad por el uso, la descarga, la publicación o la aparición de ningún Contenido generado por el usuario proporcionado por ti o cualquier otro usuario del sitio web, incluso si dicho Contenido generado por el usuario es inexacto, incompleto, engañoso o engañoso. Entiendes que podemos, pero no estamos obligados a, revisar y eliminar o editar cualquier Contenido generado por el usuario que consideremos, a nuestro exclusivo criterio, ilegal, ofensivo, amenazante, calumnioso, difamatorio, pornográfico, obsceno o de otro modo objetable o que viole la propiedad intelectual de cualquier parte o este Acuerdo. También puedes estar expuesto a Contenido generado por el usuario que sea inexacto, ofensivo o de otro modo objetable, y aceptas renunciar, y por la presente renuncias, a cualquier derecho legal o equitativo o remedio que puedas tener o tener contra nosotros con respecto a dicho Contenido generado por el usuario. Entiendes y aceptas que no somos responsables de ninguna pérdida o daño como resultado de tu uso de cualquier Contenido generado por el usuario puesto a disposición a través del sitio web.",
+      "4-h2": "Copia de seguridad",
+      "4-p": "No somos responsables del contenido que resides en el sitio web. En ningún caso seremos responsables por la pérdida de cualquier contenido. Es tu exclusiva responsabilidad mantener la copia de seguridad adecuada de tu contenido. Sin perjuicio de lo anterior, en algunas circunstancias y en algunos casos, sin ninguna obligación, es posible que podamos restaurar algunos o todos tus datos que se eliminaron a partir de una fecha y hora determinadas, donde los datos se respaldaron en nuestros servidores desde nuestra última copia de seguridad. No garantizamos que los datos que necesitas estén disponibles."
+    },
+    "notFound": {
+      "title": "404 No encontrado",
+      "goHome": "Volver al inicio"
+    },
+    "home": {
+      "title": "Bienvenido a La Aventura de Santa: el mejor lugar para jugar juegos en línea gratis",
+      "newest-free-ai-navigate": "Lista de los juegos más nuevos en La Aventura de Santa",
+      "hottest-free-ai-navigate": "Lista de los juegos más populares en La Aventura de Santa",
+      "exploreMore": "Explorar más juegos",
+      "checkDetail": "Ver detalles",
+      "search": "Buscar",
+      "result": "Resultados de la búsqueda",
+      "empty": "No hay datos disponibles"
+    },
+    "explore": {
+      "title": "Explora los {num} mejores y más nuevos juegos en La Aventura de Santa",
+      "more": "Más",
+      "all": "Todos los juegos en La Aventura de Santa"
+    },
+    "category": {
+      "title": "Todas las categorías",
+      "home": "Inicio",
+      "empty": "No hay datos disponibles"
+    },
+    "metadata": {
+      "home": {
+        "title": "La Aventura de Santa: ayuda a Santa a recolectar regalos en este juego festivo en línea",
+        "description": "¡Embárcate en La Aventura de Santa, un juego en línea divertido y atractivo para todas las edades! Navega por paisajes nevados, recolecta regalos, derrota enemigos y disfruta del juego clásico de desplazamiento lateral. ¡Perfecto para la temporada navideña!",
+        "keywords": "La Aventura de Santa"
+      },
+      "explore": {
+        "title": "Explora los {num} mejores y más nuevos juegos en 2024 | La Aventura de Santa",
+        "titlePage": "Explora los {num} mejores y más nuevos juegos, página {page}, en 2024 | La Aventura de Santa",
+        "titlePrefix": "Explora La Aventura de Santa",
+        "titleSuffix": "La Aventura de Santa",
+        "description": "Explora La Aventura de Santa, tu destino único para los juegos en línea gratuitos más nuevos y emocionantes. ¡Disfruta de una amplia colección de juegos en todos los géneros, listos para jugar instantáneamente sin descargas!",
+        "keywords": "La Aventura de Santa"
+      },
+      "category": {
+        "title": "Todas las categorías | La Aventura de Santa"
+      }
+    }
+  }
+}
